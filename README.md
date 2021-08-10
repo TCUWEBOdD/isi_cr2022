@@ -2,7 +2,7 @@
 
 El link oficial para la conferencia (que redirecciona a la que hosteamos en Github) es:
 
-https://eventoisi2021.ucr.ac.cr
+https://tcuwebodd.github.io/isi_cr2022/
 
 
 # Instrucciones para cambios:
