@@ -1,7 +1,8 @@
 # main links
 main:
   - title: "About"
-    title: "International Statistical Institute"
+    subtitle: "International Statistical Institute"
+    url: /inscripciones/
   - title: "Inscripciones"
     url: /inscripciones/
   - title: "Patrocinadores"
