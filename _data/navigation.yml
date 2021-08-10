@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "Start"
-    sublinks:
-      - title: "Quick Start"
-        url: /agenda/
-      - title: "Structure"
-        url: /agenda/
+  - title: "International Statistical Institute"
+    url: /InternationalStatisticalInstitute/
   - title: "Inscripciones"
     url: /inscripciones/
   - title: "Patrocinadores"
