@@ -1,5 +1,11 @@
 # main links
 main:
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
   - title: "About"
   children:
       - title:  "International Statistical Institute"
