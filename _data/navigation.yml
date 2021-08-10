@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Start"
-    children:
+    sublinks:
       - title: "Quick Start"
         url: /agenda/
       - title: "Structure"
