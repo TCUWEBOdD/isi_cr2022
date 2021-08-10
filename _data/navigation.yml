@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "Start"
-    children:
-      - title:  "Quick Start"
-        url:    /inscripciones/
-      - title:  "Structure"
-        url:    /inscripciones/
+  - title: "Agenda"
+    url: /agenda/
   - title: "Inscripciones"
     url: /inscripciones/
   - title: "Patrocinadores"
