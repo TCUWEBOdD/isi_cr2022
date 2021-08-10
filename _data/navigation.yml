@@ -1,8 +1,9 @@
 # main links
 main:
   - title: "About"
-    subtitle: "International Statistical Institute"
-    url: /inscripciones/
+  children:
+      - title:  "International Statistical Institute"
+        url:    /docs/en/quick-start
   - title: "Inscripciones"
     url: /inscripciones/
   - title: "Patrocinadores"
