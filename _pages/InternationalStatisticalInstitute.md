@@ -4,6 +4,7 @@ layout: single
 title:      International Statistical Institute
 author_profile: true
 ---
+<div style="text-align: justify">
 The [International Statistical Institute](https://www.isi-web.org/), ISI, is a diverse and vibrant organisation, with a long history and a rich tradition.
 
 ISI’s mission is to promote the understanding, development and good practice of statistics worldwide. This is reflected in its slogan "Statistics and Data Science for a Better World”.
@@ -19,3 +20,4 @@ The ISI flagship event is the biennial ISI World Statistics Congress, where seve
 ISI’s Declaration on Professional Ethics provides a framework for statistical professionals to make individual decisions, based on common values and experiences.
 
 Prestigious awards of ISI and its Associations recognise statistical achievements and accomplishments. ISI obtains and administers support for members from developing countries to attend an extensive variety of international conferences. It also develops and delivers statistical capacity building programmes, often in partnership with other stakeholders, including workshops to develop skills and leadership and mentoring programmes. ISI organises activities to promote the careers of young statisticians.
+</div>
