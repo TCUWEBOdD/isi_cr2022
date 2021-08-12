@@ -14,25 +14,3 @@ Everyone working in the field of Statistics is welcome to join us virtually for 
 On behalf of the ISI, we look forward to extending you a warm welcome.
 
 
-<table border="0" cellpadding="0" cellspacing="0" class="home_presidents" style="width: 730.909px;">
-	<tbody>
-		<tr>
-			<td>
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; John Bailer<br />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President</p>
-
-			<p>&nbsp;</p>
-
-			<p><img alt="" src="/media/testimonials/john-bailer.png" style="width: 167px; height: 200px; border-width: 4px; border-style: solid;" /></p>
-			</td>
-			<td>
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ada van Krimpen<br />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Director</p>
-
-			<p>&nbsp;</p>
-
-			<p><img alt="Ada van Krimpen" src="/media/gallery/portraits_ada-van-krimpen.png" style="height: 200px; border-width: 4px; border-style: solid;" title="None" /></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
