@@ -14,20 +14,6 @@ Everyone working in the field of Statistics is welcome to join us virtually for 
 
 On behalf of the ISI, we look forward to extending you a warm welcome.
 
-
-<table border="0" cellpadding="0" cellspacing="0" class="home_presidents" style="width: 730.909px;">
-	<tbody>
-		<tr>
-			<td>
-			<p>John Bailer<br />
-			President</p>
-			<p><img alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiamioh.edu%2Fnews%2Ftop-stories%2F2018%2F11%2Fjohn-bailer-2018-aaas-fellow.html&psig=AOvVaw1InzANyzk2xzS5qhP7OhyQ&ust=1628973743727000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLierZzurvICFQAAAAAdAAAAABAD" style="width: 167px; height: 200px; border-width: 4px; border-style: solid;" /></p>
-			</td>
-			<td>
-			<p>Ada van Krimpen<br />
-			Director</p>
-            <p><img alt="Ada van Krimpen" src="/media/gallery/portraits_ada-van-krimpen.png" style="height: 200px; border-width: 4px; border-style: solid;" title="None" /></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiamioh.edu%2Fnews%2Ftop-stories%2F2018%2F11%2Fjohn-bailer-2018-aaas-fellow.html&psig=AOvVaw1InzANyzk2xzS5qhP7OhyQ&ust=1628973743727000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLierZzurvICFQAAAAAdAAAAABAD"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
