@@ -5,17 +5,15 @@ title: Scientific Programme Committee
 author_profile: true
 ---
 
-Scientific Programme Committee
-
 The Scientific Programme Committee (SPC) is responsible for the Scientific Programme of the 63rd WSC 2021. It will develop and coordinate the programme, including the call for sessions and papers, the submission and review process of abstracts, and the final structure of the programme.
  
-Composition SPC 2021  
-CHAIR 	 
+#### Composition SPC 2021  
+#### CHAIR 	 
 Nalini Ravishanker 	 
-VICE-CHAIRS
+#### VICE-CHAIRS
 Mark Podolskij 	 
 Kees Zeelenberg 	 
-ASSOCIATION REPRESENTATIVES
+#### ASSOCIATION REPRESENTATIVES
 Eulalia Vares 	BS
 Jan Robert Suesser 	IAOS
 Anne Ruiz-Gazen 	IASC
@@ -23,25 +21,25 @@ Daniel Frischemeier 	IASE
 Monica Pratesi 	IASS
 Ronald Does 	ISBIS
 Ayesha Ali 	TIES
-AFFILIATED ORGANISATIONS
+#### AFFILIATED ORGANISATIONS
 Magdalena Erdem 	IFC
 Jean-Michel Poggi 	FENStatS
-MEMBERS-AT-LARGE
+#### MEMBERS-AT-LARGE
 Albina Chuwa 	 
 Andreas Georgiou 	 
-YOUNG STATISTICIANS
+#### YOUNG STATISTICIANS
 Vadim Sokolov
-WOMEN IN STATISTICS
+#### WOMEN IN STATISTICS
 Amanda Golbeck
-NATIONAL ACADEMIC COMMUNITY
+#### NATIONAL ACADEMIC COMMUNITY
 Fred van Eeuwijk
-STATISTICS NETHERLANDS
+#### STATISTICS NETHERLANDS
 Bert Kroese
-EX OFFICIO
+#### EX OFFICIO
 Yves Grize 	Previous SPC chair
 John Bailer 	ISI President
 Ada van Krimpen 	ISI Director
-ISI PO
+#### ISI PO
 Shabani Mehta 	ISI Associate Director
 Sofia Kapnisi 	ISI Events Coordinator
 
