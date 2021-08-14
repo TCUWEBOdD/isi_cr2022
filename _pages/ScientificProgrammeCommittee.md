@@ -7,7 +7,7 @@ author_profile: true
 
 The Scientific Programme Committee (SPC) is responsible for the Scientific Programme of the 63rd WSC 2021. It will develop and coordinate the programme, including the call for sessions and papers, the submission and review process of abstracts, and the final structure of the programme.
  
-#### Composition SPC 2021  
+## Composition SPC 2021  
 #### CHAIR 	 
 Nalini Ravishanker 	 
 #### VICE-CHAIRS
