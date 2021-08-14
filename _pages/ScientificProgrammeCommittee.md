@@ -11,21 +11,31 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 #### CHAIR 	 
 Nalini Ravishanker 	 
 #### VICE-CHAIRS
-Mark Podolskij 	 
+Mark Podolskij  
+
 Kees Zeelenberg 	 
 #### ASSOCIATION REPRESENTATIVES
-Eulalia Vares 	BS
-Jan Robert Suesser 	IAOS
-Anne Ruiz-Gazen 	IASC
-Daniel Frischemeier 	IASE
-Monica Pratesi 	IASS
-Ronald Does 	ISBIS
-Ayesha Ali 	TIES
+Eulalia Vares 	BS  
+
+Jan Robert Suesser 	IAOS  
+
+Anne Ruiz-Gazen 	IASC  
+
+Daniel Frischemeier 	IASE  
+
+Monica Pratesi 	IASS  
+
+Ronald Does 	ISBIS  
+
+Ayesha Ali 	TIES  
+
 #### AFFILIATED ORGANISATIONS
-Magdalena Erdem 	IFC
+Magdalena Erdem 	IFC  
+
 Jean-Michel Poggi 	FENStatS
 #### MEMBERS-AT-LARGE
-Albina Chuwa 	 
+Albina Chuwa  
+
 Andreas Georgiou 	 
 #### YOUNG STATISTICIANS
 Vadim Sokolov
@@ -36,11 +46,14 @@ Fred van Eeuwijk
 #### STATISTICS NETHERLANDS
 Bert Kroese
 #### EX OFFICIO
-Yves Grize 	Previous SPC chair
-John Bailer 	ISI President
+Yves Grize 	Previous SPC chair  
+
+John Bailer 	ISI President  
+
 Ada van Krimpen 	ISI Director
 #### ISI PO
-Shabani Mehta 	ISI Associate Director
-Sofia Kapnisi 	ISI Events Coordinator
+Shabani Mehta 	ISI Associate Director  
+
+Sofia Kapnisi 	ISI Events Coordinator  
 
 General questions about the scientific programme should be sent to Nalini Ravishanker at spc.chair@isi2021.org.
