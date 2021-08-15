@@ -1,45 +1,32 @@
 ---
 permalink: /code/
 layout: single
-title: Código de Conducta
+title: News
 author_profile: true
 ---
 
-Este código de conducta es una intersección entre los principios UCR y el CdC de R Consortium
 
-Todas las personas participantes en nuestra conferencia, deberán respetar los siguientes lineamientos, establecidos según los valores de la Universidad de Costa Rica y el código de conducta de la comunidad de usuarios de R:
+#All News
 
-**Abiertas**: Las personas que participen en ConectaR2021 estarán abiertas a la colaboración, ya sea en proyectos, grupos de trabajo, paquetes, problemas o cualquier otra tarea. La Universidad de Costa Rica y la  comunidad de R mundial, están abiertos a comentarios y críticas constructivas acerca del evento, sobre todo a partir de las experiencias y habilidades de sus participantes que nos puedan ayudar a crecer. Aceptaremos a cualquier persona que desee tomar parte de las actividades, acogiendo un ambiente en donde todos podamos participar y cada uno(a) de nosotros(as) pueda hacer la diferencia.
+#ISI WSC 2023
 
-**Consideradas**: Las personas que participen en ConectaR2021 serán consideradas con sus colegas y con cualquier usuario de R. Seremos considerados al abordar los esfuerzos de los demás, teniendo en cuenta que a menudo el trabajo se completó simplemente por el bien de la comunidad. Estaremos atentos en nuestras comunicaciones, ya sea en persona o en línea, y seremos personas respetuosas cuando nos acerquemos a diferentes puntos de vista.
+El 64 � Congreso Mundial de Estad�stica ISI 2023 se celebrar� en Ottawa, Canad�, del 15 al 20 de julio, en el Centro Shaw, En el coraz�n de la ciudad. El lugar se eligi� despu�s de evaluar las ofertas competitivas de varios lugares en Canad�. Agradecemos a la Sociedad de Estad�stica de Canad� y a Statistics Canada por su apoyo. Confiamos en que el Congreso se basar� en la experiencia de la CSM 2021 e incluir� un elemento virtual.
+�Esperamos reunirnos nuevamente con colegas y amigos en Canad�! 
 
-**Respetuosas**: Las personas que participen en ConectaR2021 serán respetuosas. Seremos respetuosos con los demás, sus posiciones, sus habilidades, sus compromisos y sus esfuerzos. Seremos respetuosos de los esfuerzos de los voluntarios que impregnan a la comunidad de R. Seremos respetuosos de los procesos establecidos en la comunidad, y trabajaremos dentro de ellos. Cuando no estemos de acuerdo, seremos amables al plantear nuestros problemas.
+Descargar el WSC 2023 - Folleto de Ottawa
 
-**Comprometidos**: Las personas que participen en ConectaR2021 estarán comprometidas con la calidad, la excelencia con el fin de atender, de manera pertinente, las necesidades de la sociedad costarricense. Estaremos comprometidos con el ambiente, con el fin de fomentar el mejoramiento de la relación del  humano con la naturaleza, el conocimiento, el respeto, la conservación y el uso sostenible de los recursos ambientales, así como una mejor calidad del ambiente en donde nos desarrollamos.
+#ISI WSC 2025
+El ISI se complace en anunciar a los miembros y delegados que estaremos en La Haya para el 65 � Congreso Mundial de la Estad�stica! Aseg�rese de agregar las fechas y el lugar a su agenda: 13-17 de julio de 2025 en elForo Mundial La Haya.
 
-**Garantes**: Las personas participantes de ConectaR2021 serán garantes de la libre expresión, del diálogo así como la coexistencia de las diferentes visiones del mundo y corrientes de pensamiento, sin otra limitación que el respeto mutuo.
+No pudimos alojar en La Haya en julio de 2021, tuvimos que ir virtual, �pero solo agregue de 4 y a�n obtendr� la experiencia de La Haya!
 
-En general, seremos amables el uno para el otro. Contribuiremos a esta comunidad no porque tengamos que hacerlo, sino porque queremos hacerlo. Si recordamos eso, estas pautas vendrán naturalmente.
+Ven a la ciudad de la paz y la justicia, la ciudad junto al mar, la ciudad sin murallas:
 
-## Participación en plataformas virtuales
+WSC 2025 La Haya - 13-17 de julio
 
-Las personas que se conectan con la plataforma virtual con la que organizamos el evento se comprometen a lo siguiente:
+#Downloads
 
-* Solamente admitiremos nombres completos (y reales) como nombres de usuario.
-* Las personas deberán entrar en mute y solamente abrirán el micrófono tras invitación del moderador.
-* Aceptaremos que la persona moderadora tiene autoridad plena de poner a alguien en mute, o en caso extremo remover al participante de la sala virtual.
-* Solamente se puede compartir pantalla tras la invitación expresa del moderador, quien en todo momento tiene la autoridad plena de apagar una pantalla.
-* Solamente se mostrará contenido directamente relevante a la conferencia. 
 
-Acerca de la comunicación por medio del chat:
 
-* En el chat solamente se aceptará lenguaje acorde con el evento y que refleje el comportamiento explicado arriba.
-* Cualquier decisión del moderador o del comité organizador o gente que hayan delegado sobre la participación de una persona en plataformas virtuales es final y no se discute ni se aceptan reclamos.
 
-## Principios de ConectaR
-
-* En la región Latinoamericana hay espacio para un evento enfocado en conectar a gente con un interés común en R.
-* Buscamos crear un espacio seguro y abierto, que dé la bienvenida a compartir experiencias e ideas libremente en un entorno que fomenta la diversidad. Todas las contribuciones son igual de importantes. 
-* En ConectaR no existe espacio para ningún tipo de discriminación por género, orientación sexual, nacionalidad, religión, edad, origen étnico o discapacidad.
-* Todas las personas podemos aportar ideas valiosas, la meta del evento es que esas ideas se articulen, y logren crear nuevos proyectos que resuelvan problemas específicos de nuestra región. 
 
