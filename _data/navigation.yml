@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /ScientificProgrammeCommittee/
-  - title: "Inscripciones"
+  - title: "Registration"
     url: /inscripciones/
-  - title: "Patrocinadores"
+  - title: "Scientific Programme"
     url: /patrocinadores/
-  - title: "Equipo"
+  - title: "Sponsorship & Exhibition"
     url: /equipo/
-  - title: "Código de conducta"
+  - title: "News"
     url: /code/
