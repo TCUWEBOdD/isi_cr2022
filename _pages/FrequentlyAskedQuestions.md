@@ -1,4 +1,10 @@
-# Frequently Asked Questions
+---
+permalink: /FrequentlyAskedQuestions/
+layout: single
+title: Frequently Asked Questions
+author_profile: true
+---
+
 
 ## General Questions & Answers
 
