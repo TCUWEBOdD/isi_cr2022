@@ -7,7 +7,6 @@
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #04AA6D;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -43,9 +42,6 @@
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
