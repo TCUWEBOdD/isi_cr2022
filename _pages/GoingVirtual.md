@@ -4,7 +4,8 @@ layout: single
 title: Going Virtual
 author_profile: true
 ---
-The International Statistical Institute's ‘World Statistics Congress 2021 - The Hague’ will be held virtually due to COVID-19. This is an opportunity for the ISI to host a more inclusive conference than ever before. It will allow us to have the greatest ever participation, reaching out to a wide diversity of members who would not otherwise be able to afford to attend an international conference, at lower costs, and with a lower carbon footprint. We hope to see a large number of first-time participants, including many early career statisticians and students along with colleagues from developing countries. 
+
+The International Statistical Institute's ‘World Statistics Congress 2021 - The Hague’ will be held virtually due to COVID-19. This is an opportunity for the ISI to host a more inclusive conference than ever before. It will allow us to have the greatest ever participation, reaching out to a wide diversity of members who would not otherwise be able to afford to attend an international conference, at lower costs, and with a lower carbon footprint. We hope to see a large number of first-time participants, including many early career statisticians and students along with colleagues from developing countries.
 
 The Virtual ISI WSC 2021 will bring together statisticians and data scientists from academia, official statistics, health sector and business, junior and senior professionals, in an inviting virtual environment. The inspiring and interactive programme will provide the platform to learn about the latest developments in statistical research and practice in an informal ambiance.
 
@@ -14,6 +15,13 @@ Everyone working in the field of Statistics is welcome to join us virtually for 
 
 On behalf of the ISI, we look forward to extending you a warm welcome.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiamioh.edu%2Fnews%2Ftop-stories%2F2018%2F11%2Fjohn-bailer-2018-aaas-fellow.html&psig=AOvVaw1InzANyzk2xzS5qhP7OhyQ&ust=1628973743727000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLierZzurvICFQAAAAAdAAAAABAD"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+John Bailer  
+President
+
+![](https://www.isi2021.org/media/testimonials/john-bailer.png)
+
+Ada van Krimpen  
+Director
+
+![Ada van Krimpen](https://www.isi2021.org/media/gallery/portraits_ada-van-krimpen.png "None")
+
