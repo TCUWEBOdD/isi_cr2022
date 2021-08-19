@@ -15,19 +15,13 @@
           {%- for link in site.data.navigation.main -%}
             <div class="dropdown">
               <li class="masthead__menu-item dropbtn">
-                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>
-                {{
-                 link.title 
-                 {% if link.title == 'About' %}
-	                <div class="dropdown-content">
-	                <a href="#">Link 1</a>
-	                <a href="#">Link 2</a>
-	                <a href="#">Link 3</a>
-	                </div>
-	             {% endif %}
-	            }}</a>
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ {% if link.title == About %} link.title {% endif %}}}</a>
               </li>
-              
+              <div class="dropdown-content">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+              </div>
             </div>
           {%- endfor -%}
         </ul>
