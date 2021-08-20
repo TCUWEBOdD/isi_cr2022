@@ -29,7 +29,17 @@
                 {% endif %}
               	{% if link.title== "Registration" %}
               		{{link.title}} 
-                {% endif %}</a>
+                {% endif %}
+                {% if link.title== ""Scientific Programme"" %}
+              		{{link.title}} 
+                {% endif %}
+                {% if link.title== "Sponsorship & Exhibition" %}
+              		{{link.title}} 
+                {% endif %}
+                {% if link.title== "News" %}
+              		{{link.title}} 
+                {% endif %}
+            </a>
               </li>
             </div>
           {%- endfor -%}
