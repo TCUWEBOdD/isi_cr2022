@@ -15,7 +15,11 @@
           {%- for link in site.data.navigation.main -%}
             <div class="dropdown">
               <li class="masthead__menu-item dropbtn">
-                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
+              	{% if link.title== "Registration" %}
+                  <a href="https://tcuwebodd.github.io/isi_cr2022/Registration/"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
+                {% else %}
+                  <a href="https://tcuwebodd.github.io/isi_cr2022/#/"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
+                {% endif %}
                 {% if link.title== "About" %}  
                 	<div class="dropdown-content">
 			                <a href="https://tcuwebodd.github.io/isi_cr2022/InternationalStatisticalInstitute/">International Statistical Institute</a>
@@ -25,9 +29,6 @@
 			                <a href="https://tcuwebodd.github.io/isi_cr2022/AssociationsIndividualConductPolicy/">ISI & ISI Associations Individual Conduct Policy</a>
 			                <a href="https://tcuwebodd.github.io/isi_cr2022/GeneralInformationPastWSCs/">General Information & Past WSCs</a>
               		</div>
-                {% endif %}
-              	{% if link.title== "Registration" %}
-
                 {% endif %}
                 {% if link.title== "Scientific Programme" %}
                 	<div class="dropdown-content">
@@ -43,7 +44,7 @@
 
                 {% endif %}
                 {% if link.title== "News" %}
-                
+
                 {% endif %}
               </li>
             </div>
