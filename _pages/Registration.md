@@ -1,7 +1,7 @@
 ---
 permalink: /Registration/
 layout: single
-title: Short Courses
+title: Registration
 author_profile: true
 ---
 ## Hola mundo Registration
