@@ -14,7 +14,7 @@ The 63rd ISI WSC 2021 is being shaped into a comprehensive virtual event, making
 ## Join the Statistical and Data Science community as Sponsor of the ISI WSC 2021
 
 | Benefits | PLATINUM ≥ € 50,000 | GOLD ≥ € 25,000 | SILVER ≥ € 10,000 |
-| :-------------: | :-------------: | :-------------: | :-------------: |
+| :------------- | :-------------: | :-------------: | :-------------: |
 | Sponsor’s name & logo on the ISI WSC 2021 website | ✔️ | ✔️ | ✔️ |
 | Sponsor’s name & logo with link to website on the ISI WSC 2021 website | ✔️ | ✔️ |  |
 | A guest welcome note/blog post on the website | ✔️ | | |
@@ -26,3 +26,9 @@ The 63rd ISI WSC 2021 is being shaped into a comprehensive virtual event, making
 | Sponsors' logo in all our email communications | ✔️ | ✔️ | |
 | Sponsor promotion on social media | ✔️ | ✔️ | ✔️ |
 | Complimentary delegate registration | 5 | 3 | 2 |
+
+## Additional Sponsorship Opportunities
+
+| ------------- | ------------- | ------------- |
+| Virtual Event Bags | 1. Multiple Max. 2. 5 3. Price: €3,000 each |Sponsors have the opportunity to curate what goes into delegates’ bags, be it coupons or vouchers, a free trial for a software, or an online course. The bag would then be shared directly with the WSC participants for them to access via email, social media, either before, during, or following the event.|
+
