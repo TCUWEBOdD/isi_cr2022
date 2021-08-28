@@ -39,3 +39,46 @@ The 63rd ISI WSC 2021 is being shaped into a comprehensive virtual event, making
 | Daily sport challenge | The launching of this activity is  sponsored by [RStudio](https://www.rstudio.com/) | We will provide daily sport challenges. Sponsor a daily challenge or the entire week of WSC2021. |
 | Attendee Sponsoring | [WILEY](https://www.wiley.com/en-gb) \ [IPUMS](https://www.ipums.org/) \ [ASA](https://www.amstat.org/) \ [UNSD](https://unstats.un.org/home/)| Sponsoring students in general or/and delegates from developing countries. The sponsor identifies how many registrations are to be sponsored. |
 
+Early application of sponsorship is recommended to avoid disappointment. Sponsorship bookings are made on a first-come, first-served basis.
+
+The ISI is currently reviewing virtual platforms, therefore the ISI reserves the right to alter some benefits but will find alternative solutions of equal value.
+
+[Special Order Form](https://www.isi2021.org/media/documents/sponsorship-exhibition-booking-form.pdf)
+
+## Join the Virtual ISI WSC 2021 as an Exhibitor
+
+### Display – Inform – Share your products and services
+
+Connect with attendees, sponsors, and co-exhibitors.
+
+Our Virtual Exhibition space offers the showcase, the networking tools, and the direct access to your audience. The international statistical community will be there and you will be part of it.
+
+## Packages and Rates
+
+| Premium Virtual Exhibition Booth | 
+| ------------- |
+|[See our confirmed Premium Exhibitors](https://tcuwebodd.github.io/isi_cr2022/Exhibition/)|
+|- €2,500|
+|- Priority listing on the main WSC2021 Virtual Exhibition page with logo with a direct link to your website|
+|- Personalized Virtual Exhibition page including:
+   - Your logo, description, contact information, and a link to your website
+   - Personalized Contact Form for lead retrieval from Virtual Exhibition visitors
+      - Option for embedded video
+      - Option for video chat feature|
+|- Possibility to broadcast your video 5 times during the WSC, before or after a session in the scientific programme.|
+|- Full Web activity report for your page provided post-WSC2021|
+|- Discount 10% on the price of one Exhibition Booth at the next WSC to be held in Ottawa, Canada, from 15-20 July 2023. Our conference venue is the magnificent [Shaw Centre](https://www.shaw-centre.com/). We plan to have 25 exhibition booths in the dedicated Exhibition area. By signing up for a Premium Virtual Exhibition Booth at the Virtual WSC2021, you will receive an automatic 10% discount for one Exhibition Booth at the WSC2023. This offer is valid for the physical exhibition. If the WSC2023 is changed to a virtual format, the discount will apply for the virtual exhibition. Prices of booths and specific information for WSC2023 will be available by early 2022.|
+|- Complimentary registrations for your staff: 4|
+
+| Basic Virtual Exhibition Booth | 
+| ------------- |
+|- €1,250|
+|- Listing on the main WSC2021 Virtual Exhibition page|
+|- Complimentary registrations for your staff: 2|
+|- Personalized Virtual Exhibition page including:
+    - Your logo, description, contact information, and a link to your website
+    - Basic Contact Form for collecting name and email from Virtual Exhibition visitors who would like more information|
+|- **Optional Add-Ons:**|
+|- Basic Package Video Embed Add-On: €500|
+|- Basic Package Video Chat Add-On: €500|
+
