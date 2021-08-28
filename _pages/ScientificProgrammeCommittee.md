@@ -17,16 +17,14 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 | ------------- |
 | Nalini Ravishanker  |
 
----
----
+
 
 | VICE-CHAIRS |
 | ------------- |
 | Mark Podolskij |
 | Kees Zeelenberg |
 
----
----
+
 
 | ASSOCIATION REPRESENTATIVES|
 | ------------- |
@@ -44,7 +42,8 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 ---
 ---
 
-#### | AFFILIATED ORGANISATIONS |
+| AFFILIATED ORGANISATIONS |
+| ------------- |
 
 | ------------- | ------------- |
 | Magdalena Erdem |	IFC |  
@@ -55,9 +54,6 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 
 | MEMBERS-AT-LARGE |
 | ------------- |
-| |
-
-| ------------- | ------------- |
 | Albina Chuwa |
 | Andreas Georgiou |	 
 
