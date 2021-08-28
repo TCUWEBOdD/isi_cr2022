@@ -69,5 +69,6 @@ With regard to the review and selection of Award recipients:
 2. Sponsors will be recognised in the congress/conference materials by:
     - Inclusion of the logo in the website, app, printed materials.
     - The main sponsors’ logos will be included in the main event’s larger displays (flags, banners, boards, etc.)
-Written messages from the organisers to thank for the sponsorship
+    - Written messages from the organisers to thank for the sponsorship
+
 The organising committee and/or Executive Committee may decide on other forms of recognition or entitlements provided they are in agreement with the general principles of this policy.
