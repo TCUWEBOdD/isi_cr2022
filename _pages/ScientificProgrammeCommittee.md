@@ -53,7 +53,9 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 ---
 ---
 
-#### | MEMBERS-AT-LARGE |
+| MEMBERS-AT-LARGE |
+| ------------- |
+| |
 
 | ------------- | ------------- |
 | Albina Chuwa |
@@ -90,7 +92,9 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 ---
 ---
 
-#### | EX OFFICIO |
+| EX OFFICIO |
+| ------------- |
+| |
 
 | ------------- | ------------- |
 | Yves Grize 	| Previous SPC chair | 
@@ -100,7 +104,9 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 ---
 ---
 
-#### | ISI PO |
+| ISI PO |
+| ------------- |
+| |
 
 | ------------- | ------------- |
 | Shabani Mehta |	ISI Associate Director |
