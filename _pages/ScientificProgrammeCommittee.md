@@ -39,54 +39,48 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 | Ronald Does |	ISBIS  
 | Ayesha Ali | TIES |  
 
----
----
+
 
 | AFFILIATED ORGANISATIONS |
 | ------------- |
+||
 
 | ------------- | ------------- |
 | Magdalena Erdem |	IFC |  
 | Jean-Michel Poggi | FENStatS |
 
----
----
+
 
 | MEMBERS-AT-LARGE |
 | ------------- |
 | Albina Chuwa |
 | Andreas Georgiou |	 
 
----
----
+
 
 | YOUNG STATISTICIANS |
 | ------------- |
 | Vadim Sokolov |
 
----
----
+
 
 | WOMEN IN STATISTICS |
 | ------------- |
 | Amanda Golbeck |
 
----
----
+
 
 | NATIONAL ACADEMIC COMMUNITY |
 | ------------- |
 | Fred van Eeuwijk |
 
----
----
+
 
 | STATISTICS NETHERLANDS |
 | ------------- |
 | Bert Kroese |
 
----
----
+
 
 | EX OFFICIO |
 | ------------- |
@@ -97,8 +91,7 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 | John Bailer | ISI President | 
 | Ada van Krimpen | ISI Director |
 
----
----
+
 
 | ISI PO |
 | ------------- |
@@ -107,6 +100,7 @@ The Scientific Programme Committee (SPC) is responsible for the Scientific Progr
 | ------------- | ------------- |
 | Shabani Mehta |	ISI Associate Director |
 | Sofia Kapnisi |	ISI Events Coordinator |
+
 
 
 
