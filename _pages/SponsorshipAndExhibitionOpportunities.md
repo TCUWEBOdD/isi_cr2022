@@ -70,7 +70,8 @@ Our Virtual Exhibition space offers the showcase, the networking tools, and the 
 | Discount 10% on the price of one Exhibition Booth at the next WSC to be held in Ottawa, Canada, from 15-20 July 2023. Our conference venue is the magnificent [Shaw Centre](https://www.shaw-centre.com/). We plan to have 25 exhibition booths in the dedicated Exhibition area. By signing up for a Premium Virtual Exhibition Booth at the Virtual WSC2021, you will receive an automatic 10% discount for one Exhibition Booth at the WSC2023. This offer is valid for the physical exhibition. If the WSC2023 is changed to a virtual format, the discount will apply for the virtual exhibition. Prices of booths and specific information for WSC2023 will be available by early 2022.|
 | Complimentary registrations for your staff: 4|
 
-
+---
+---
 
 | Basic Virtual Exhibition Booth | 
 | ------------- |
