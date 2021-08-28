@@ -30,7 +30,12 @@ The 63rd ISI WSC 2021 is being shaped into a comprehensive virtual event, making
 ## Additional Sponsorship Opportunities
 
 | ------------- | ------------- | ------------- |
-| Virtual Event Bags | - Multiple 
-- Max.5 
-- Price: €3,000 each |Sponsors have the opportunity to curate what goes into delegates’ bags, be it coupons or vouchers, a free trial for a software, or an online course. The bag would then be shared directly with the WSC participants for them to access via email, social media, either before, during, or following the event.|
+| Virtual Event Bags | Multiple \ Max.5 \ Price: €3,000 each |Sponsors have the opportunity to curate what goes into delegates’ bags, be it coupons or vouchers, a free trial for a software, or an online course. The bag would then be shared directly with the WSC participants for them to access via email, social media, either before, during, or following the event.|
+| Exclusive Sponsor to a Networking meeting | Multiple \ Max. 3 \ Price: €2,500 each \ Women in Statistics Networking Meeting Exclusive Sponsor: [L'Oréal](https://www.loreal.com/en/group/about-loreal/)|We will organize 3 major networking meetings: The ISI-Young Statisticians Event, the Women in Statistics Networking Meeting, and the Welcome Reception.|
+| Icebreaker Activities | Multiple \ Max. 5 \ Price: €1,500 each | For a networking session, the sponsor organizes an icebreaker event, e.g. to create a game or (fun) activity (if possible something that relates to their brand or product). |
+| Branded Breakout Area | Exclusive Price: €5,000 | Coffee area, in between/after sessions. |
+| Virtual Photo Booth | Exclusive Price: €5,000 | Delegates make digital selfies/photos with your template/logo on it. Your logo will be included on each digital download. Delegates will be encouraged to post their photos on social media. |
+| Peace area | Exclusive Price: €3,000 | We offer a space where delegates can relax and recharge, with an instructor of yoga or mindfulness. |
+| Daily sport challenge | The launching of this activity is  sponsored by [RStudio](https://www.rstudio.com/) | We will provide daily sport challenges. Sponsor a daily challenge or the entire week of WSC2021. |
+| Attendee Sponsoring | [WILEY](https://www.wiley.com/en-gb) \ [IPUMS](https://www.ipums.org/) \ [ASA](https://www.amstat.org/) \ [UNSD](https://unstats.un.org/home/)| Sponsoring students in general or/and delegates from developing countries. The sponsor identifies how many registrations are to be sponsored. |
 
