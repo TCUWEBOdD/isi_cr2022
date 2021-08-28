@@ -40,9 +40,9 @@ By issuing independent economic advice, DNB strengthens policies aimed at its pr
 
 ---
 
+
 # Platinum Sponsors
 
----
 [![image](https://user-images.githubusercontent.com/50782609/131202422-89fa8178-bb6a-4e3b-bf3f-cb2bac48b7fd.png)](https://www.esri.com/en-us/home)
 
 [Esri](https://www.esri.com/en-us/home), the global market leader in geographic information system (GIS) software, offers the most powerful mapping and spatial analytics technology available. Since 1969, Esri has helped customers unlock the full potential of data to improve operational and business results. Today, Esri software is deployed in more than 350,000 organizations including the world's largest cities, most national governments, 75 percent of Fortune 500 companies, and more than 7,000 colleges and universities. Esri engineers the most advanced solutions for digital transformation, the Internet of Things (IoT), and location analytics to inform the most authoritative maps in the world. Visit us at esri.com.
@@ -63,7 +63,6 @@ By issuing independent economic advice, DNB strengthens policies aimed at its pr
 
 ## Silver Sponsor
 
----
 [![image](https://user-images.githubusercontent.com/50782609/131202491-0d9764b0-b400-436e-9c96-7c53942c502c.png)](https://www.loreal.com/en/group/about-loreal/)
 
 [L’Oréal](https://www.loreal.com/en/group/about-loreal/) has devoted itself to beauty for over 100 years. With its unique international portfolio of 35 diverse and complementary brands, the Group generated sales amounting to 27,99 billion euros in 2020 and employs 85,400 people worldwide. As the world’s leading beauty company, L’Oréal is present across all distribution networks: mass market, department stores, pharmacies and drugstores, hair salons, travel retail, branded retail and e-commerce.
@@ -115,8 +114,11 @@ Together, RStudio’s open-source software and commercial software form a virtuo
 The [United Nations Statistics Division](https://unstats.un.org/home/) (UNSD) is committed to the advancement of the global statistical system. It compiles and disseminates global statistical information, develops standards and norms for statistical activities, and supports countries' efforts to strengthen their national statistical systems. It facilitates the coordination of international statistical activities and supports the functioning of the United Nations Statistical Commission as the apex entity of the global statistical system. The Statistics Division's main functions are:
 
 ◾ **Data:** Collection, processing and dissemination of statistical information
+
 ◾ **Methodology:** Standardization of statistical methods, classifications and definitions
+
 ◾ **Capacity development:** Technical cooperation programme
+
 ◾ **Coordination:** Coordination of international statistical programmes and activities
 
 ---
