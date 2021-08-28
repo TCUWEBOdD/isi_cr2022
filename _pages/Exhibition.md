@@ -5,7 +5,10 @@ title: Exhibition
 author_profile: true
 ---
 
-# Virtual Exhibition
+---
+---
+
+## Virtual Exhibition
 
 The Exhibition is an essential element of the WSCs, also in this first-ever virtual WSC.
 
