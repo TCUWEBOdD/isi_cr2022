@@ -58,27 +58,32 @@ Our Virtual Exhibition space offers the showcase, the networking tools, and the 
 | Premium Virtual Exhibition Booth | 
 | ------------- |
 |[See our confirmed Premium Exhibitors](https://tcuwebodd.github.io/isi_cr2022/Exhibition/)|
-| - €2,500|
-| - Priority listing on the main WSC2021 Virtual Exhibition page with logo with a direct link to your website|
-| - Personalized Virtual Exhibition page including: |
-|   1. Your logo, description, contact information, and a link to your website |
-|   2. Personalized Contact Form for lead retrieval from Virtual Exhibition visitors |
-|      2.1 Option for embedded video |
-|      2.2 Option for video chat feature |
-| - Possibility to broadcast your video 5 times during the WSC, before or after a session in the scientific programme.|
-| - Full Web activity report for your page provided post-WSC2021|
-| - Discount 10% on the price of one Exhibition Booth at the next WSC to be held in Ottawa, Canada, from 15-20 July 2023. Our conference venue is the magnificent [Shaw Centre](https://www.shaw-centre.com/). We plan to have 25 exhibition booths in the dedicated Exhibition area. By signing up for a Premium Virtual Exhibition Booth at the Virtual WSC2021, you will receive an automatic 10% discount for one Exhibition Booth at the WSC2023. This offer is valid for the physical exhibition. If the WSC2023 is changed to a virtual format, the discount will apply for the virtual exhibition. Prices of booths and specific information for WSC2023 will be available by early 2022.|
-| - Complimentary registrations for your staff: 4|
+| ⚫ €2,500|
+| ⚫ Priority listing on the main WSC2021 Virtual Exhibition page with logo with a direct link to your website|
+| ⚫ Personalized Virtual Exhibition page including: |
+| 1. Your logo, description, contact information, and a link to your website |
+| 2. Personalized Contact Form for lead retrieval from Virtual Exhibition visitors |
+|   2.1 Option for embedded video |
+|   2.2 Option for video chat feature |
+| ⚫ Possibility to broadcast your video 5 times during the WSC, before or after a session in the scientific programme.|
+| ⚫ Full Web activity report for your page provided post-WSC2021|
+| ⚫ Discount 10% on the price of one Exhibition Booth at the next WSC to be held in Ottawa, Canada, from 15-20 July 2023. Our conference venue is the magnificent [Shaw Centre](https://www.shaw-centre.com/). We plan to have 25 exhibition booths in the dedicated Exhibition area. By signing up for a Premium Virtual Exhibition Booth at the Virtual WSC2021, you will receive an automatic 10% discount for one Exhibition Booth at the WSC2023. This offer is valid for the physical exhibition. If the WSC2023 is changed to a virtual format, the discount will apply for the virtual exhibition. Prices of booths and specific information for WSC2023 will be available by early 2022.|
+| ⚫ Complimentary registrations for your staff: 4|
 
 | Basic Virtual Exhibition Booth | 
 | ------------- |
-| - €1,250|
-| - Listing on the main WSC2021 Virtual Exhibition page|
-| - Complimentary registrations for your staff: 2|
-| - Personalized Virtual Exhibition page including: |
-|   1. Your logo, description, contact information, and a link to your website |
-|   2. Basic Contact Form for collecting name and email from Virtual Exhibition visitors who would like more information |
-| - **Optional Add-Ons:**|
-| - Basic Package Video Embed Add-On: €500|
-| - Basic Package Video Chat Add-On: €500|
+| ⚫ €1,250|
+| ⚫ Listing on the main WSC2021 Virtual Exhibition page|
+| ⚫ Complimentary registrations for your staff: 2|
+| ⚫ Personalized Virtual Exhibition page including: |
+|     1. Your logo, description, contact information, and a link to your website |
+|     2. Basic Contact Form for collecting name and email from Virtual Exhibition visitors who would like more information |
+| ⚫ **Optional Add-Ons:**|
+| ⚫ Basic Package Video Embed Add-On: €500|
+| ⚫ Basic Package Video Chat Add-On: €500|
 
+[Exhibition Brochure and Order Form](https://www.isi2021.org/media/documents/exhibition-brochure.pdf)
+
+## Sign On
+
+To sign up for the Exhibition of the Virtual ISI WSC 2021, please contact exhibition@isi2021.org
