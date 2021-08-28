@@ -30,5 +30,7 @@ The 63rd ISI WSC 2021 is being shaped into a comprehensive virtual event, making
 ## Additional Sponsorship Opportunities
 
 | ------------- | ------------- | ------------- |
-| Virtual Event Bags | 1. Multiple Max. 2. 5 3. Price: €3,000 each |Sponsors have the opportunity to curate what goes into delegates’ bags, be it coupons or vouchers, a free trial for a software, or an online course. The bag would then be shared directly with the WSC participants for them to access via email, social media, either before, during, or following the event.|
+| Virtual Event Bags | - Multiple 
+- Max.5 
+- Price: €3,000 each |Sponsors have the opportunity to curate what goes into delegates’ bags, be it coupons or vouchers, a free trial for a software, or an online course. The bag would then be shared directly with the WSC participants for them to access via email, social media, either before, during, or following the event.|
 
