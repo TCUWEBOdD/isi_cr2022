@@ -80,7 +80,43 @@ Research and Innovation, and a dedicated research team of 4,000+ people, are at 
 ---
 
 ---
+[![image](https://user-images.githubusercontent.com/50782609/131202533-d278ef87-9b84-49a2-8def-c91f691612ec.png)](https://www.ipums.org/)
 
+[IPUMS](https://www.ipums.org/), housed at the University of Minnesota in the U.S., provides census and survey data from around the world **integrated across time and space**---this makes it easy to study change, conduct comparative research, merge information across data types, and analyze individuals within family and community contexts. **Data and services are available free of charge**.
+
+- **IPUMS International** provides the world’s largest collection of harmonized, integrated census and survey microdata from over 100 countries, contemporary and historical. 
+- **IPUMS DHS** facilitates the analysis of the DHS administered in low-and middle-income countries.  
+- **IPUMS PMA** is the harmonized version of the international planning survey series Performance Monitoring for Action. These data monitor progress towards Family Planning 2020 goals at low cost and with rapid turnaround.
+- **IPUMS IHGIS** (International Historical Geographic Information System) disseminates tabular and GIS data from population, housing, and agricultural censuses 
+- **IPUMS Time Use** provides free individual-level time use data and gives users access to the MTUS (Multinational Time Use Study Extract Builder).
 
 ---
 
+
+---
+[![image](https://user-images.githubusercontent.com/50782609/131202612-b6ad8df9-1a73-4fa4-97e2-c45f4c5610cd.png)](https://www.wiley.com/en-gb)
+
+[Wiley](https://www.wiley.com/en-gb) empowers researchers, learners, universities, and corporations to achieve their goals in an ever-changing world. For over 200 years we have been helping people and organizations develop the skills and knowledge they need to succeed. We develop digital education, learning, assessment, and certification solutions to help universities, businesses, and individuals move between education and employment and achieve their ambitions. By partnering with learned societies, we support researchers to communicate discoveries that make a difference. Our online scientific, technical, medical, and scholarly journals, books, and other digital content build on a 200-year heritage of quality publishing.
+
+---
+
+---
+[![image](https://user-images.githubusercontent.com/50782609/131202638-e783979a-a82c-4020-a4bb-0379f52457cc.png)](https://www.rstudio.com/)
+
+[RStudio](https://www.rstudio.com/)’s mission is to create free and open-source software for data science, scientific research, and technical communication. We do this to enhance the production and consumption of knowledge by everyone, regardless of economic means, and to facilitate collaboration and reproducible research, both of which are critical to the integrity and efficacy of work in science, education, government, and industry.
+RStudio also produces RStudio Team, a modular platform of commercial software products that give organizations the confidence to adopt R, Python and other open-source data science software at scale - for the benefit of many people, to leverage large amounts of data, to integrate with existing enterprise systems, platforms, and processes, or be compliant with security practices and standards - along with online services to make it easier to learn and use them over the web.
+Together, RStudio’s open-source software and commercial software form a virtuous cycle: The adoption of open-source data science software at scale in organizations creates demand for RStudio’s commercial software; and the revenue from commercial software, in turn, enables deeper investment in the open-source software that benefits everyone.
+
+---
+
+---
+[![image](https://user-images.githubusercontent.com/50782609/131202686-7e717bae-8720-4f00-975d-ff9d28a28fb3.png)](https://unstats.un.org/home/)
+
+The [United Nations Statistics Division](https://unstats.un.org/home/) (UNSD) is committed to the advancement of the global statistical system. It compiles and disseminates global statistical information, develops standards and norms for statistical activities, and supports countries' efforts to strengthen their national statistical systems. It facilitates the coordination of international statistical activities and supports the functioning of the United Nations Statistical Commission as the apex entity of the global statistical system. The Statistics Division's main functions are:
+
+◾ **Data:** Collection, processing and dissemination of statistical information
+◾ **Methodology:** Standardization of statistical methods, classifications and definitions
+◾ **Capacity development:** Technical cooperation programme
+◾ **Coordination:** Coordination of international statistical programmes and activities
+
+---
