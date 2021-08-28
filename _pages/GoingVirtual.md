@@ -15,13 +15,8 @@ Everyone working in the field of Statistics is welcome to join us virtually for 
 
 On behalf of the ISI, we look forward to extending you a warm welcome.
 
-John Bailer  
-President
+| John Bailer (President) | Ada van Krimpen (Director) |
+| ------------- | ------------- |
+| ![image](https://user-images.githubusercontent.com/50782609/131202929-ddf688c5-e95c-434b-9fcb-f69f1db9e7b6.png) | ![image](https://user-images.githubusercontent.com/50782609/131202936-cf0c6fef-ba5c-4571-92ca-e2677d8bc370.png) |
 
-![](https://www.isi2021.org/media/testimonials/john-bailer.png)
-
-Ada van Krimpen  
-Director
-
-![Ada van Krimpen](https://www.isi2021.org/media/gallery/portraits_ada-van-krimpen.png "None")
 
