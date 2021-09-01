@@ -18,12 +18,12 @@
           {%- for link in site.data.navigation.main -%}
             <div class="dropdown">
               <li class="masthead__menu-item dropbtn">
-              	{% if link.title== "Registro" %}
+              	{% if link.title== "Registrarse" %}
                   <a href="https://tcuwebodd.github.io/isi_cr2022/Registration/"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
                 {% else %}
                   <a href="https://tcuwebodd.github.io/isi_cr2022/#/"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
                 {% endif %}
-                {% if link.title== "Sobre" %}  
+                {% if link.title== "Acerca de" %}  
                 	<div class="dropdown-content">
 			                <a href="https://tcuwebodd.github.io/isi_cr2022/InternationalStatisticalInstitute/">Instituto Internacional de Estadística</a>
 			                <a href="https://tcuwebodd.github.io/isi_cr2022/GoingVirtual/">Volviéndose virtual</a>
