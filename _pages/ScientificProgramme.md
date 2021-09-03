@@ -17,15 +17,15 @@ All times observe British Summer Time (BST)
 | :------------- | :-------------: |
 | Mara Sherlin D. Talento | Chair |
 | Milica M. Maričić | Speaker | 
-| Gajendra K. Vishwakarma Speaker |
-| Joyce Grajo Speaker |
-| Suryo Adi Speaker |
-| Peter Ogunyinka Speaker |
-| Mr. Chong Zhi Lin Speaker |
-| Holger Geovanny Cevallos Valdiviezo Speaker |
-| Jacque Bon-Isaac Aboy Speaker |
-| Ezra Gayawan Speaker |
-| Rocky Marcelino Speaker |
+| Gajendra K. Vishwakarma | Speaker |
+| Joyce Grajo | Speaker |
+| Suryo Adi | Speaker |
+| Peter Ogunyinka | Speaker |
+| Mr. Chong Zhi Lin | Speaker |
+| Holger Geovanny Cevallos Valdiviezo | Speaker |
+| Jacque Bon-Isaac Aboy | Speaker |
+| Ezra Gayawan | Speaker |
+| Rocky Marcelino | Speaker |
 
 ## July 11, 2021
 
@@ -44,6 +44,7 @@ All times observe British Summer Time (BST)
 | | |
 
 ## July 12, 2021
+
 | 12:45 p.m. - 1 p.m. | Welcome to Day 1 |
 | :------------- | :-------------: |
 | Master of Ceremony - Jennifer Rogers | Speaker |
