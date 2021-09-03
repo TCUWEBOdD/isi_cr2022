@@ -779,3 +779,282 @@ All times observe British Summer Time (BST)
 
 
 
+| 6 p.m. - 7 p.m. | IPS 164 - Latent Variable Models for small big data |
+| :------------- | :-------------: |
+| Dr. Rosaria Romano | Organiser |
+| Prof. Maria Iannario | Speaker |
+| Prof. Michel van de Velden | Speaker |
+| Prof. Alfonso Iodice D'Enza | Speaker |
+| Prof. Mariko Takagishi | Speaker |
+| Prof. Angelos Markos | Speaker |
+| Prof. Francesco Palumbo | Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 135 - Seasonal adjustment of official statistics disrupted by COVID-19 effects |
+| :------------- | :-------------: |
+| Mr. Julian Whiting | Organiser and Speaker |
+| Mr. Brian Monsell | Speaker |
+| Dr. Tucker McElroy | Speaker |
+| Mr. Paul Schubert | Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 62 - Statistics & Cosmetics |
+| :------------- | :-------------: |
+| Dr. Philippe Bastien | Organiser |
+| Mr. Andrei Furtuna | Speaker |
+| Prof. Arthur Tenenhaus | Speaker |
+| Dr. Florent Guinot | Speaker |
+| Prof. Gilbert Saporta | Discussant |
+| Prof. Kim-Anh Lê Cao | Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 70 - Model-based estimation of binary and count survey data at granular levels |
+| :------------- | :-------------: |
+| Dr. Andreea Erciulescu | Organiser and Chair |
+| Dr. Diba Khan | Speaker |
+| Dr. Zhengyuan Zhu | Speaker |
+
+
+
+
+| 6 p.m. - 7 p.m. | SIPS 111 - Taking statistics to school: How to nurture the development of young students’ statistical reasoning |
+| :------------- | :-------------: |
+| Prof. Joachim Engel | Organiser |
+| Prof. Dani Ben-Zvi | Speaker |
+
+
+
+
+| 6 p.m. - 7 p.m. | SIPS 236 - ISI Mahalanobis International Award Session in honour of Prof. Heleno Bolfarine. |
+| :------------- | :-------------: |
+| Sponsored by the Government of India | |
+| Director Ada van Krimpen | Organiser |
+| Mr. Amil Kumar MIshra | Speaker |
+| Prof. Mario de Castro Andrade Filho | Speaker |
+| Prof. Jorge Bazan | Speaker |
+| Prof. Reinaldo Arellano Valle | Speaker |
+| Prof. Victor Hugo Vlachos | Speaker |
+| Mr. Henrique Bolfarine | Speaker |
+| Prof. John Bailer | Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | SIPS 235 - ISI Founders of Statistics Prize Winner Presentation - Sponsored by Elsevier |
+| :------------- | :-------------: |
+| Director Ada van Krimpen | Organiser |
+| Prof. Robert Tibshirani | Speaker |
+| Dr. Fabrizio Ruggeri | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 34 - Analysis of temporal networks |
+| :------------- | :-------------: |
+| Prof. Gesine Reinert | Organiser and Chair |
+| Prof. Tom Snijders | Speaker |
+| Prof. Guy Nason | Speaker |
+| Dr. Marya Bazzi | Speaker |
+| Prof. Johan Koskinen | Speaker |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 203 - COVID-19 among Indigenous peoples in three countries |
+| :------------- | :-------------: |
+| Ms. Michele Connolly | Organiser and Speaker |
+| Dr. Kalinda Griffiths | Speaker |
+| Dr. Alexandra King | Speaker |
+| Dr. John Waldon | Discussant |
+| Dr. Bette Jacobs | Discussant |
+| Dr. Sam Notzon | Chair |
+| Dr. Malcolm King | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 61 - Recent Advances in Functional Anomaly Detection |
+| :------------- | :-------------: |
+| Prof. Klaus Nordhausen | Organiser and Chair |
+| Mr. Trevor Harris | Speaker |
+| Prof. Marc Genton | Speaker |
+| Dr. Aurore Archimbaud | Speaker |
+| Prof. Anne Ruiz-Gazen | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 28 - New developments in delivering training on Official Statistics |
+| :------------- | :-------------: |
+| Dr. Steve Macfeely | Organiser and Chair |
+| Dr. Onno Hoffmeister | Speaker |
+| Prof. Peter Kovacs | Speaker |
+| Dr. Katri Soinne | Speaker |
+| Prof. John Harraway | Speaker |
+| Dr. Pieter Everaers | Discussant |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 117 - Advances in extreme value statistics |
+| :------------- | :-------------: |
+| Dr. Riccardo Passeggeri | Organiser |
+| Prof. Simone Padoan | Speaker |
+| Dr. Nicolas Meyer | Speaker |
+| Prof. Clément Dombry | Speaker |
+| Stilian Stoev | Speaker |
+| Prof. Olivier Wintenberger | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 13 - y-BIS Session: Advances in Statistical Learning Applications |
+| :------------- | :-------------: |
+| Dr. Luca Frigau | Organiser and Speaker |
+| Prof. Tahir Ekin | Speaker |
+| Dr. Olawale Awe | Speaker |
+| Dr. Nathaniel Stevens | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 17 - Advances and Applications in Mixture Modeling |
+| :------------- | :-------------: |
+| Prof. Daniel Jeske | Organiser and Chair |
+| Prof. Weixin Yao | Speaker |
+| Mr. Bradley Lubich | Speaker |
+| Prof. Pierre Vandek | Speaker |
+| Prof. Mian Huang | Speaker |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 191 - Spatio-temporal models for infectious diseases |
+| :------------- | :-------------: |
+| Prof. Alexandra Schmidt | Organiser and Discussant |
+| Dr. Leonardo Bastos | Speaker |
+| Prof. Marta Blangiardo | Speaker |
+| Prof. Robert Deardon | Speaker |
+| Dr. Ayesha Ali | Discussant |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 42 - Counting People with Administrative Data instead of a Traditional Census |
+| :------------- | :-------------: |
+| Dr. James Chipperfield | Organiser and Chair |
+| Dr. Daniel. Ward | Speaker |
+| Ms. Antonella Bernardini | Speaker |
+| Dr. Greg Payne | Speaker |
+| Dr. Ahmad Hleihel | Speaker |
+| Prof. Li-Chun Zhang | Discussant |
+| Ms. Nicoletta Cibella | Discussant |
+| Prof. James Brown | Chair |
+
+
+
+
+
+| 7 p.m. - 8:30 p.m. | SIPS 221 - BS Journal Special Invited Paper Session |
+| :------------- | :-------------: |
+| Prof. Mark Podolski | Organiser and Chair |
+| Prof. Johannes Schmidt-Hieber | Speaker |
+
+
+
+
+| CPS Oral - Topics in Environmental Statistics | |
+| :------------- | :-------------: |
+| Dr. Eliane Rodrigues | Speaker |
+| Mr. Luke Durell | Speaker |
+| Dr. Shariffa Suhaila | Speaker |
+| Dr. Kevin Forbes | Speaker |
+| Dr. Stephanie Clark | Speaker |
+| Msc Changqing Lu | Speaker |
+
+
+
+
+|CPS Oral - Statistical Modeling III | |
+| :------------- | :-------------: |
+| Dr. Hien Nguyen | Speaker |
+| Dr. Sayantee Jana | Speaker |
+| Mr. Chandra Prakash Yadav | Speaker |
+| Mr. Zachary Zanussi | Speaker |
+| Prof. Yichuan Zhao | Speaker |
+
+
+
+
+| CPS Oral - Probability and Statistical Models | |
+| :------------- | :-------------: |
+| Dr. Teppei Ogihara | Speaker |
+| Dr. Chrysoula Ganatsiou | Speaker |
+| Dr. Shun Matsuura | Speaker |
+| Dr. Daisuke Kurisu | Speaker |
+| Prof. Yuriy Kharin | Speaker |
+| Ms. Corinne Emmenegger | Speaker |
+
+
+
+
+| CPS Oral - Global Economics & Development II | |
+| :------------- | :-------------: |
+| Mr. Akhmad Fatikhurrizqi | Speaker |
+| Dr. Sipho Felix Mamba | Speaker |
+| Mr. Muhammad Ghozy Al Haqqoni | Speaker |
+| Ms. Ana Clara Cancelo Da Cruz | Speaker |
+| Prof. Andrea Diniz Da Silva | Speaker |
+
+
+
+
+| CPS Oral - Pandemic II | |
+| :------------- | :-------------: |
+| PhD. Silvia Columbu | Speaker |
+| Mr. Sze-chun, Alex Li | Speaker |
+| Mr. Asaph Y. Chun | Speaker |
+| Mr. Samuel Ady Sanjaya | Speaker |
+| Ms. Maslina Binti Samsudin | Speaker |
+
+
+
+
+| CPS Oral - Environmental Analysis | |
+| :------------- | :-------------: |
+| Prof. Giuliana Passamani | Speaker |
+| Ass. Prof. Gabrielle Kelly | Speaker |
+| PhD. F. Marta L. Di Lascio | Speaker |
+| Dr. Barbara Jasiulis-Goldyn | Speaker |
+| Prof. Daniel Maposa | Speaker |
+| Ms. Hanin Rahma Septina | Speaker |
+
+
+
+
+| CPS Oral - Temporal Modeling | |
+| :------------- | :-------------: |
+| Ms. María del Carmen Robustillo | Speaker |
+| Mr M Irsyad Ilham | Speaker |
+| Ms. Shubhangi Sikaria | Speaker |
+| Dr. Xiaoling Dou | Speaker |
+| PhD. Cand. Zening Song | Speaker |
+| Ms. Yuanyuan Zhang | Speaker |
+
+
+
+
+| CPS Oral - Topics in Computational Statistics | |
+| :------------- | :-------------: |
+| Mr. Nestor Bokossa | Speaker |
+| Dr. Mario M. Pizarro | Speaker |
+| Prof. Massimiliano Caporin | Speaker |
+| Dr. Maarten Kampert | Speaker |
+| Mr. Sébastien Coube-Sisqueille | Speaker |
+| Mr. Sean Sithole | Speaker |
