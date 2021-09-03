@@ -239,3 +239,75 @@ All times observe British Summer Time (BST)
 
 
 
+| CPS Oral - Statistical analysis for high-dimensional data | |
+| :------------- | :-------------: |
+| Mr. Mehdi Dagdoug | Speaker |
+| Mr. Md Shariful Islam | Speaker |
+| Mr. Hyunwoong Chang | Speaker |
+| Senior Data Scientist Serge Goussev | Speaker |
+| Mr Luke Mosley | Speaker |
+
+
+
+
+| CPS Oral - Topics in Business and Industry | |
+| :------------- | :-------------: |
+| PhD. Candidate Changrang Zhou | Speaker |
+| Ms. Lina Zhao | Speaker |
+| Dr. Ronald Van Nooijen | Speaker |
+| Dr. Werner Mueller | Speaker |
+| PhD. Oscar Lemmers | Speaker |
+| Ms. Ayu Paramudita | Speaker |
+
+
+
+
+| CPS Oral - Statistics in Practice-Some Issues III | |
+| :------------- | :-------------: |
+| Prod. Sandra De Iaco | Speaker |
+| Mr. Chen Zhong | Speaker |
+| Dr. Rahma Abid | Speaker |
+| Dr. Caston Sigauke | Speaker |
+
+
+
+
+| CPS Oral - Pandemic I | |
+| :------------- | :-------------: |
+| Mr. Taly Purwa | Speaker |
+| Mr. Uchechukwu George | Speaker |
+| Ms. Amira Al Salhi | Speaker |
+| Mr. Ibtihaj Alsiyabi | Speaker |
+| Prof. Ruslan Motoryn | Speaker |
+
+
+
+
+| CPS Oral - Official Statistics I | |
+| :------------- | :-------------: |
+| Prof. Pedro Campos | Speaker |
+| Mr. Sihle Khanyile | Speaker |
+| Dr. Emanuele Del Fava | Speaker |
+| Mr. Katamso Noto Santoso | Speaker |
+| Mr. Mario Palma | Speaker |
+
+
+
+
+| CPS Oral - Global Economics & Development III | |
+| :------------- | :-------------: |
+| Mr. Mohammad Darahim Ibrahim | Speaker |
+| Mrs. Christiayu Natalia | Speaker |
+| Dr. Pooja Sengupta | Speaker |
+| Dr. Maciej Jan Danko | Speaker |
+| Ass. Prof. Zhixiu Du | Speaker |
+
+
+
+
+| CPS Oral - Global Economic and Social Questions II | |
+| :------------- | :-------------: |
+| Mr. Dominik Nowakowski | Speaker |
+| Mr. Dominique Habimana | Speaker |
+| Dr. Fernando Cantu | Speaker |
+| Dr. Norshamshida Razak | Speaker |
