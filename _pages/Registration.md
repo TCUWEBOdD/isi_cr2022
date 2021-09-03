@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+
+
 **If you have already registered to join the Virtual ISI World Statistics Congress 2021, click [HERE](https://virt-us.app/e/isi-world-statistics-congress/login/?next=/e/isi-world-statistics-congress/&reason=Not%20authenticated%20-%20please%20log%20in) to access the conference platform.**
 
 Welcome to the registration section of the Virtual 63rd ISI World Statistics Congress, which takes place from 11-16 July 2021. Please note registration is now closed.
