@@ -453,3 +453,50 @@ All times observe British Summer Time (BST)
 | Ms. Mai Ngoc Bui | Speaker |
 | Dr. Tom Nye | Discussant |
 | Dr. Yvo Pokern | Chair |
+
+
+
+
+| PS Non-Live 123 - Statistical methods for assessing the effectiveness of e-learning during the COVID-19 era | |
+| :------------- | :-------------: |
+| Dr. Cristina Mollica | Organiser and Discussant |
+| Dr. Simone Del Sarto | Speaker |
+| Prof. Francesco Palumbo | Speaker |
+| Dr. Lan Umek | Speaker |
+| Prof. Serena Arima | Chair |
+
+
+
+
+| IPS Non-Live 138 - Changepoint Detection in Multiple Time Series | |
+| :------------- | :-------------: |
+| Prof. Erniel Barrios | Organiser and Chair |
+| Mr. Ian Miguel Landrito | Speaker |
+| Mr. Paolo Victor Redondo | Speaker |
+| Mr. Elfred John Abacan | Speaker |
+
+
+
+
+| IPS Non-Live 108 - Approaches to handle various types of spatially dependent data | |
+| :------------- | :-------------: |
+| Dr. Chae Young Lim | Organiser and Chair |
+| Dr. Wei-Ying Wu | Speaker |
+| Dr. Jaewoo Park | Speaker |
+| Dr. Jungsoon Choi | Speaker |
+
+
+
+
+| IPS Non-Live 79 - Recent Developments on Spatial and Temporal Data Analysis | |
+| :------------- | :-------------: |
+| Dr. Zhenhua Lin | Organiser and Chair |
+| Prof. Dehan Kong | Speaker |
+| Prof. Hui Huang | Speaker |
+| Prof. Xialu Liu | Speaker |
+
+
+
+
+## July 13, 2021
+
