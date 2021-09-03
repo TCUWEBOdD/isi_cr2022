@@ -311,3 +311,145 @@ All times observe British Summer Time (BST)
 | Mr. Dominique Habimana | Speaker |
 | Dr. Fernando Cantu | Speaker |
 | Dr. Norshamshida Razak | Speaker |
+
+
+
+
+| CPS Oral - Analyzing Spatial Data | |
+| :------------- | :-------------: |
+| PhD. Selene Perazzini | Speaker |
+| Mr. Jie Li | Speaker |
+| Mr. Kiseok Song | Speaker |
+| Ms. Siti Nurliza Samsudin | Speaker |
+| PhD. Junho Lee | Speaker |
+
+
+
+
+| IPS Non-Live 118 - Soviet statistics as a historical artefact | |
+| :------------- | :-------------: |
+| Dr. Alexey Ponomarenko | Organiser and Chair |
+| Mr. Jaroslav Sixta | Speaker |
+| Dr. Irina Eliseeva | Speaker |
+| Dr. Masaaki Kuboniwa | Speaker |
+| Dr. Yuri Ivanov | Speaker |
+| Dr. Misha Belkindas | Discussant |
+
+
+
+
+| IPS Non-Live 132 - Web data for official statistics: the ESS web intelligence hub | |
+| :------------- | :-------------: |
+| Mr. Albrecht Wirthmann | Organiser
+| Ms. Ellen Gates | Speaker |
+| Mr. Jasper van Loo | Speaker |
+| Ms. Martina Hahn | Speaker |
+| Ms. Sofie De Broe | Discussant |
+| Mr. Emanuele Baldacci | Chair |
+
+
+
+
+| IPS Non-Live 157 - Poverty and Inequality: New Challanges and New Statistical Responses | |
+| :------------- | :-------------: |
+| Dr. Irina Eliseeva | Organiser and Speaker |
+| Dr Mintodê Nicodème Atchadé | Speaker |
+| Dr. Yelena Stukalin | Speaker |
+| Prof. Helmut Maier | Speaker |
+| Mr. Anton Nivorozhkin | Discussant and Speaker |
+| Dr. Maria Dekina | Discussant |
+| Prof. Ludmila Nivorozhkina | Chair |
+
+
+
+
+| IPS Non-Live 151 - Building and maintaining partnerships between academia and official statistics - some of our best practices | |
+| :------------- | :-------------: |
+| Dr. Jacobiene Van Der Hoeven | Organiser and Speaker |
+| Mr. Ricardo Rodriguez | Speaker |
+| Ms. Joyce Ten Holter | Speaker |
+| Prof. Piyushimita Thakuriah | Speaker |
+| Prof. Natalie Shlomo | Discussant and Chair |
+
+
+
+
+| IPS Non-Live 174 - Central Banks as producers of official statistics | |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser |
+| Mr. Andrea Carboni | Speaker |
+| Ms. Argita Frasheri | Speaker |
+| Mr. Antonio Rodríguez Caloca | Speaker |
+| Ms. Gülbin Şahinbeyoğlu | Discussant |
+| Mr. Aurel Schubert | Chair |
+
+
+
+
+
+| IPS Non-Live 228 - Big Data Analytics and Methods for High-Throughput and High-Dimensional Biological Data | |
+| :------------- | :-------------: |
+| Dr. Hsin-Chou Yang | Organiser and Chair |
+| Prof. Chiu-Hsieh | Hsu Speaker |
+| Prof. Agus Salim | Speaker |
+| Prof. Yingying Wei | Speaker |
+| Prof. Ching-Ti Liu | Speaker |
+
+
+
+
+| IPS Non-Live 216 - Fintech Statistics | |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser |
+| Mr. Ulf Kalckreuth | Speaker |
+| Mr. Ilja Kristian Kavonius | Speaker |
+| Mr. Melle Bijlsma | Speaker |
+| Mr. Jose Maria Serena | Discussant |
+| Mr. Robert Kirchner | Chair |
+
+
+
+
+| IPS Non-Live 162 - Innovation on Energy Statistics and beyond to meet environmental targets and create a carbon neutral economy | |
+| :------------- | :-------------: |
+| Ms. Madeleine Mahovsky | Organiser and Chair |
+| Ms. Clare O'Hara | Speaker |
+| Ms. Ann Christin Bøeng | Speaker |
+| Ms. Ingrid Melby | Speaker |
+| Mr. Stavros Lazarou | Speaker |  
+| Ms. Viveka Palm | Discussant |
+
+
+
+
+| IPS Non-Live 188 - Accelerating availability of SDG data | |
+| :------------- | :-------------: |
+| Ms. Vibeke Nielsen | Organiser |
+| Mr. Omar Sene | Speaker |
+| Ms. Karen Lizeth Chavez Quintero | Speaker |
+| Mr. Grant Cameron | Discussant |
+| Dr. Claire Melamed | Discussant |
+| Dr. Francesca Perucci | Chair |
+
+
+
+
+| IPS Non-Live 171 - Peer reviews of statistical systems ? how do they benefit development and innovation? | |
+| :------------- | :-------------: |
+| Ms. Claudia Junker | Organiser and Speaker |
+| Ms. Leila Ben Ali | Speaker |
+| Mr. Juan Daniel Oviedo | Speaker |
+| Ms. Mariana Kotzeva | Chair |
+
+
+
+
+
+| IPS Non-Live 113 - Application driven statistics for stochastic processes with geometric features | |
+| :------------- | :-------------: |
+| Prof. Stephan Huckemann | Organiser |
+| Mr. Johannes Wieditz | Speaker |
+| Ms. Mariya Mamajiwala | Speaker |
+| Ms. Mai Ngoc Bui | Speaker |
+| Dr. Tom Nye | Discussant |
+| Dr. Yvo Pokern | Chair |
