@@ -593,3 +593,98 @@ All times observe British Summer Time (BST)
 | Prof. James Brown | Speaker |
 | Dr. Titiana Tuoto | Speaker |
 | Prof. Bart Bakker | Chair |
+
+
+
+
+| 10 a.m. - 11 a.m. | SIPS 237 - ISI Jan Tinbergen Awards Session |
+| :------------- | :-------------: |
+| Director Ada van Krimpen | Organiser and Chair |
+| Ms. Mozhgan Taavoni | Speaker |
+| Mr. Jie Li | Speaker |
+| Mr. Qirui Hu | Speaker |
+
+
+
+
+| 10 a.m. - 11 a.m. | SIPS 226 - IASS President's and Cochran-Hansen Prize Invited Session |
+| :------------- | :-------------: |
+| Dr. Denise Britz do Nascimento Silva | Organiser |
+| Prof. Ray Chambers | Speaker |
+| Mr. Guilherme Jacob | Speaker |
+| Prof. Thomas Lumley | Speaker |
+
+
+
+
+| 10 a.m. - 11 a.m. | SIPS 73 - Gosset Lecture |
+| :------------- | :-------------: |
+| Dr. Fabrizio Ruggeri | Organiser |
+| Prof. Galit Shmueli | Speaker |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 92 - Recent Advances in Event History Analysis |
+| :------------- | :-------------: |
+| Prof. (tony) Jianguo Sun | Organiser and Chair|
+| Prof. Hongbin Fang Speaker |
+| Prof. Hui Zhao | Speaker |
+| Prof. Xingqiu Zhao | Speaker |
+| Prof. Chunjie Wang | Speaker |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 170 - Measuring the Sustainable Development Goals in cities, towns, and rural areas |
+| :------------- | :-------------: |
+| Ms. Teodora Brandmuller | Organiser and Speaker |
+| Dr. Robert Ndugwa | Speaker |
+| Dr. Lewis Dijkstra | Speaker |
+| Mr. Jagdev Singh Virdee | Discussant |
+| Mr. Pietro Gennari | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 47 - Privacy Preserving Computation Techniques in Official Statistics |
+| :------------- | :-------------: |
+| Mr. Matjaz Jug | Organiser and Chair |
+| Ms. Monica Scannapieco | Speaker |
+| Ms. Kuan Hon | Speaker |
+| Mr. David Archer | Speaker |
+| Mr. Fabio Ricciato | Discussant |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 126 - Labeling Issues in Machine Learning Methodology |
+| :------------- | :-------------: |
+| Dr. Yves Grize | Organiser and Chair |
+| Prof. Marcel Dettling | Speaker |
+| Mr. Nathan Lally | Speaker |
+| Prof. HaiYing Wang | Speaker |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 24 - Methodological responses to the COVID-19 pandemic by National Statistical Institutes |
+| :------------- | :-------------: |
+| Dr. Anders Holmberg Organiser and Chair |
+| Mr. Vince Galvin | Speaker |
+| Ms. Orietta Luzi | Speaker |
+| Prof. Jan van den Brakel | Speaker |
+| Dr. Eric Rancour | Discussant |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 35 - Hypothesis testing with e-values |
+| :------------- | :-------------: |
+| Prof. Johanna Ziegel | Organiser and Chair |
+| Mr. Alexander Henzi | Speaker |
+| Prof. Vladimir Vovk | Speaker |
+| Ms. Rianne de Heide | Speaker |
+| Prof. Martin Larsson | Speaker |
+| Dr. Wouter M. Koolen | Discussant |
+| Prof. Ruodu Wang | Chair |
