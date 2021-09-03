@@ -688,3 +688,94 @@ All times observe British Summer Time (BST)
 | Prof. Martin Larsson | Speaker |
 | Dr. Wouter M. Koolen | Discussant |
 | Prof. Ruodu Wang | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 23 - Screening important variables in sparse setups while considering interactions |
+| :------------- | :-------------: |
+| Dr. Rakhi Singh | Organiser and Chair |
+| Dr. Rajen D Shah | Speaker |
+| Prof. John Stufken | Speaker |
+| Dr. Keli Liu | Speaker |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 109 - New Data Sources Meet Household Surveys: Scaling-up Innovation for Official Statistics |
+| :------------- | :-------------: |
+| Benjamin K Mayala | Organiser and Chair |
+| Mr. Juan Sebastien Ordonez Herrera | Speaker |
+| Ms. Solly Molayi | Speaker |
+| Dr. Siu-Ming Tam | Speaker |
+| Dr. Gero Carletto | Discussant |
+| Mr. Jean-François Beaumont | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | SIPS 222 - Telling Truth with Scientific Data |
+| :------------- | :-------------: |
+| Dr. Elena Naumova | Organiser and Discussant |
+| Dr. Lelys Bravo de Guenni | Speaker |
+| Dr. Tilman Ruff | Speaker |
+| Dr. Kevin Lane | Speaker |
+| Dr. Ayesha Ali | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | SIPS 227 - STAT Highlight: Recent statistical research and development on COVID-19 |
+| :------------- | :-------------: |
+| Dr. Hao Zhang | Organiser |
+| Mr. Justin Slater | Speaker |
+| Prof. Laura Ventura | Speaker |
+| Mr. William Palmer | Speaker |
+| Dr. Helen Zhang | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. |esri Live Workshop |
+| :------------- | :-------------: |
+| | |
+
+
+
+
+| 4 p.m. - 5:30 p.m. | ISI Committee for Women in Statistics: Networking Meeting |
+| :------------- | :-------------: |
+| | |
+
+
+
+
+| 5:45 p.m. - 6 p.m. | Welcome to day 2 |
+| :------------- | :-------------: |
+| Master of Ceremony - Jennifer Rogers | Speaker |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 107 - Markov chains in data science: theory and applications |
+| :------------- | :-------------: |
+| Dr. Quan Zhou | Organiser and Speaker |
+| Dr. Alex Shestopaloff | Speaker |
+| Dr. Haosui Duanmu | Speaker |
+| Dr. Jun Yang | Speaker |
+| Mr. Hyunwoong Chang | Chair |
+
+
+
+
+6 p.m. - 7 p.m. | IPS 189 - How can we help ensure that official statistics training needs are met? |
+| :------------- | :-------------: |
+| Ms. Vibeke Nielsen | Organiser and Chair |
+| Ms. Mitali Sen | Speaker |
+| Ms. Elena Proden | Speaker |
+| Prof. Pedro Campos | Discussant |
+| Ms. Aberash Tariku | Discussant |
+
+
+
+
