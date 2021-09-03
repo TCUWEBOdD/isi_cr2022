@@ -18,45 +18,45 @@
           {%- for link in site.data.navigation.main -%}
             <div class="dropdown">
               <li class="masthead__menu-item dropbtn">
-              	{% if link.title== "Registrarse" %}
+              	{% if link.title== "Registration" %}
                   <a href="https://tcuwebodd.github.io/isi_cr2022/Registration/"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
                 {% else %}
                   <a href="https://tcuwebodd.github.io/isi_cr2022/#/"{% if link.description %} title="{{ link.description }}"{% endif %}>{{link.title}}</a>
                 {% endif %}
-                {% if link.title== "Acerca de" %}  
+                {% if link.title== "About" %}  
                 	<div class="dropdown-content">
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/InternationalStatisticalInstitute/">Instituto Internacional de Estadística</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/GoingVirtual/">Volviéndose virtual</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/ScientificProgrammeCommittee/">Comité del Programa Científico</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/FrequentlyAskedQuestions/">Preguntas frecuentes</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/AssociationsIndividualConductPolicy/">Política de conducta individual de las asociaciones ISI e ISI</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/GeneralInformationPastWSCs/">Información general y CSM anteriores</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/InternationalStatisticalInstitute/">International Statistical Institute</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/GoingVirtual/">Going Virtual</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/ScientificProgrammeCommittee/">Scientific Programme Committee</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/FrequentlyAskedQuestions/">Frequently Asked Questions</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/AssociationsIndividualConductPolicy/">ISI & ISI Associations Individual Conduct Policy</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/GeneralInformationPastWSCs/">General Information & Past WSCs</a>
               		</div>
                 {% endif %}
-                {% if link.title== "Programa científico" %}
+                {% if link.title== "Scientific Programme" %}
                 	<div class="dropdown-content">
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/ScientificProgramme/">Programa científico</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/CongressSchedule/">Calendario del Congreso</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/InvitedPaperSessionsIPSOverview/">Descripción general de las sesiones de ponencias invitadas (IPS)</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/ScientificProgrammeFAQ/">Preguntas frecuentes sobre el programa científico</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/SatelliteMeetings/">Reuniones satélite</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/ShortCourses/">Cursos cortos</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/ScientificProgramme/">Scientific Programme</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/CongressSchedule/">Congress Schedule</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/InvitedPaperSessionsIPSOverview/">Invited Paper Sessions (IPS) Overview</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/ScientificProgrammeFAQ/">Scientific Programme FAQ</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/SatelliteMeetings/">Satellite Meetings</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/ShortCourses/">Short Courses</a>
               		</div>
                 {% endif %}
-                {% if link.title== "Patrocinio y Exposición" %}
+                {% if link.title== "Sponsorship & Exhibition" %}
                       <div class="dropdown-content">
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/StrategicPartnersAndSponsors/">Socios estratégicos y patrocinadores</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/Exhibition/">Exposición</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/SponsorshipAndExhibitionOpportunities/">Oportunidades de patrocinio y exhibición</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/BookingAndPolicies/">Reservas y políticas</a>
-			                <a href="https://tcuwebodd.github.io/isi_cr2022/ISISponsorshipPolicy/">Política de patrocinio de ISI</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/StrategicPartnersAndSponsors/">Strategic Partners & Sponsors</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/Exhibition/">Exhibition</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/SponsorshipAndExhibitionOpportunities/">Sponsorship & Exhibition Opportunities</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/BookingAndPolicies/">Booking & Policies</a>
+			                <a href="https://tcuwebodd.github.io/isi_cr2022/ISISponsorshipPolicy/">ISI Sponsorship Policy</a>
                 {% endif %}
-                {% if link.title== "Noticias" %}
+                {% if link.title== "News" %}
                       <div class="dropdown-content">
-                        <a href="https://tcuwebodd.github.io/isi_cr2022/AllNews/">Todas las noticias</a>
+                        <a href="https://tcuwebodd.github.io/isi_cr2022/AllNews/">All News</a>
                         <a href="https://tcuwebodd.github.io/isi_cr2022/ISIWSC2023/">ISI WSC 2023</a>
                         <a href="https://tcuwebodd.github.io/isi_cr2022/ISIWSC2025/">ISI WSC 2025</a>
-                        <a href="https://tcuwebodd.github.io/isi_cr2022/Downloads/">Descargas</a>
+                        <a href="https://tcuwebodd.github.io/isi_cr2022/Downloads/">Downloads</a>
                       </div>
                 {% endif %}
               </li>
