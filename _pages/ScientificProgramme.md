@@ -500,3 +500,96 @@ All times observe British Summer Time (BST)
 
 ## July 13, 2021
 
+| 9:45 a.m. - 10 a.m. | Welcome to Day 2 |
+| :------------- | :-------------: |
+| Master of Ceremony - Jennifer Rogers | Speaker |
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 77 - Corner Pillars of Probability Education - Part I |
+| :------------- | :-------------: |
+| Prof. Manfred Borovcnik | Organiser |
+| Prof. Laura Martignon | Speaker |
+| Prof. Teresita Evelina Terán | Speaker |
+| Prof. Martín; Uldarico Victor Malaspina Quevedo; Malaspina Jurado | Speaker |
+| Dr. Daniel Frischemeier | Discussant |
+| Dr. David Stern | Chair |
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 215 - Statistical literacy, visualization and communication |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser |
+| Ms. Lígia Nunes | Speaker |
+| Mr. Per Nymand-Andersen | Speaker |
+| Ms. Tatiana Tatiana Mosquera-Yon | Speaker |
+| Mr. Olorunsola Emmanuel Olowofeso | Discussant |
+| Mr. Luis Teles Dias | Chair |
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 44 - Stein's method for Machine Learning |
+| :------------- | :-------------: |
+| Prof. Gesine Reinert | Organiser and Chair |
+| Prof. Tamara Fernandez Aguilar | Speaker |
+| Prof. Andrew Duncan | Speaker |
+| Prof. Lester Mackey | Speaker |
+| Dr. Mikolaj Kasprzak | Chair |
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 181 - The Use of Big Data to Predict Economic Activity During Covid-19 Pandemic |
+| :------------- | :-------------: |
+| Dr. Titi Kanti Lestari | Organiser |
+| Mr. Amanda Pratama Putra | Speaker |
+| Ms. Raden Roro Nefriana | Speaker |
+| Mrs. SIlvia Arini | Speaker |
+| Ms. Gemma Van Halderen | Discussant |
+| Ms. Amalia A Widyasanti | Chair |
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 101 - Statistical modeling for stochastic ordinary and partial differential equations |
+| :------------- | :-------------: |
+| Prof. Michael Sørensen | Speaker |
+| Prof. Nakahiro Yoshida | Chair |
+| Prof. Hiroki Masuda | Speaker |
+| Prof. Masayuki Uchida | Speaker |
+| Dr. Kengo Kamatani | Organiser |
+
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 232 - Data Science and ISI |
+| :------------- | :-------------: |
+| Prof. Daniel Jeske | Chair |
+| Prof. Jurgen Symanzik | Speaker | 
+| Prof. Elisabetta Carfagna | Speaker |
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 95 - Impact of the COVID 19 Pandemic on Data Collection in the Production of Agricultural Statistics |
+| :------------- | :-------------: |
+| Dr. Linda Young | Organiser and Chair |
+| Dr. Gero Carletto | Speaker |
+| Dr. Albina Chuwa | Speaker |
+| Ms. Christine Wirtz | Speaker |
+| Ms. Barbara Rater | Speaker |
+
+
+
+
+| 10 a.m. - 11 a.m. | IPS 192 - Population Size Estimation |
+| :------------- | :-------------: |
+| Mr. Daan Zult | Organiser and Discussant |
+| Prof. Peter van der Heijden | Speaker |
+| Prof. James Brown | Speaker |
+| Dr. Titiana Tuoto | Speaker |
+| Prof. Bart Bakker | Chair |
