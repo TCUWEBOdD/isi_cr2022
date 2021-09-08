@@ -2456,3 +2456,209 @@ Dr. Changwon Lim | Chair |
 | Ms. Fernanda Da Bastiani | Speaker |
 | Mr. Oscar Andres Espinosa Acuna | Speaker |
 | Ms. Kenza Sallier | Speaker |
+
+
+
+
+| 1 p.m. - 2 p.m. | SIPS 224 - Some Fun Applications of Text Analysis |
+| :------------- | :-------------: |
+| Prof. Jurgen Symanzik | Organiser and Chair |
+| Dr. Wendy Martinez | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 105 - How to fund official statistics production to support statistical principles and ethics |
+| :------------- | :-------------: |
+| Dr. Andreas Georgiou | Organiser and Speaker |
+| Mr. John Pullinger | Speaker |
+| Mr. Hallgrimur Snorrason | Speaker |
+| Mr. Hermann Habermann | Discussant and Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 80 - New Advances in Time Series Analysis |
+| :------------- | :-------------: |
+| Dr. Yao Zheng | Organiser and Chair |
+| Prof. Qiwei Yao | Speaker |
+| Dr. Elynn Chen | Speaker |
+| Prof. Liudas Giraitis | Speaker |
+| Prof. David Matteson | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 87 - Statistical and Data Literacy in Policy-Making |
+| :------------- | :-------------: |
+| Prof. Gaby Umbach | Organiser and Chair |
+| Ms. Katharina Schüller | Speaker |
+| Prof. Milo Schield | Speaker |
+| Dr. Walter Radermacher | Speaker |
+| Mr. Igor Tkalec | Discussant |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 198 - Comics, Games, and Comedy: Making Statistics Engaging to the Public |
+| :------------- | :-------------: |
+| Prof. John Bailer | Organiser and Chair |
+| Dr. Regina Nuzzo | Speaker |
+| Ms. Timandra Harkness | Speaker |
+| Mr. Andrea Ascheri | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 69 - y-BIS: Statistical Analysis of Complex Data |
+| :------------- | :-------------: |
+| Dr. Nathaniel Stevens | Organiser and Speaker |
+| Ms. Trang Bui | Speaker |
+| Dr. Peijun Sang | Speaker |
+| Dr. Jeff Andrews | Speaker |
+| Dr. Luca Frigau | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 31 - Graphical causal models |
+| :------------- | :-------------: |
+| Prof. Mathias Drton | Organiser and Chair |
+| Prof. Joris M. Mooij | Speaker |
+| Prof. Emilija Perkovic | Speaker |
+| Prof. Robin Evans | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 115 - Quality Control in Industry and Public Health |
+| :------------- | :-------------: |
+| Dr. Emmanuel Yashchin | Organiser and Chair |
+| Dr. Michael Baron | Speaker |
+| Dr. Ross Sparks | Speaker |
+| Dr. Ramesh Natarajan | Speaker |
+| Dr. Ta-Hsin Li | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 161 - Formal privacy methods in NSO: Challenges and Solutions |
+| :------------- | :-------------: |
+| Dr. Lars Vilhuber | Organiser and Chair |
+| Dr. Andrew Foote | Speaker |
+| Prof. John Abowd | Speaker |
+| Dr. Joseph Chien | Speaker |
+| Prof. Gerome Miklau | Speaker |
+| Prof. Jörg Drechsler | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 51 - Alternative methods for SDG data disaggregation |
+| :------------- | :-------------: |
+| Mr. Pietro Gennari | Organiser and Chair |
+| Paul Andres Corral Rodas | Speaker |
+| Benjamin K Mayala | Speaker |
+| Dr. Piero Falorsi | Speaker |
+| Dr. Attila Hancioglu | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | SIPS 225 - Issues with big amounts of data for survey statistics |
+| :------------- | :-------------: |
+| Dr. Danute Krapavickaite | Organiser and Chair |
+| Dr. Ashley Amaya | Speaker |
+| Mr. Jean-François Beaumont | Speaker |
+| Dr. Anders Holmberg | Speaker |
+| Prof. Frauke Kreuter | Discussant |
+
+
+
+
+| 4 p.m. - 4:45 p.m. | Closing Ceremony |
+| :------------- | :-------------: |
+| Prof. John Bailer | Chair |
+| Stephen Penneck | Speaker |
+| Director Ada van Krimpen | Speaker |
+| Master of Ceremony - Jennifer Rogers | Speaker |
+
+
+
+
+| CPS Oral - Applications in Banking and Finance | |
+| :------------- | :-------------: |
+| Ms. Han Gao | Speaker |
+| Mr. Hoang Nguyen | Speaker |
+| Prof. Dr PETER Pflaumer | Speaker |
+| Mr. Ming-lok KWOK | Speaker |
+| Mr. Shiori Inoue Gemma | Speaker |
+| Dr. Yuzhi Cai | Speaker |
+
+
+
+
+| CPS Oral - Family and Gender | |
+| :------------- | :-------------: |
+| PhD. student SABRY EL Hassania | Speaker |
+| Ms. EZATUL NISHA Rahman | Speaker |
+| M.sc. Dania Eugenidis | Speaker |
+| Mr. Rodrigo Lovaton Davila | Speaker |
+| Mr. Aldi Nulkarim | Speaker |
+| Mr. Md Injamul Haq Methun | Speaker |
+
+
+
+
+| CPS Oral - Global Economic and Social Questions I | |
+| :------------- | :-------------: |
+| Dr. John-Oliver Engler | Speaker |
+| Mr. Jannik Schaller | Speaker |
+| Mr. Chin Tang Chan | Speaker |
+| Mr. Arif Rahman | Speaker |
+| Prof. Wlodzimierz Okrasa | Speaker |
+
+
+
+
+| CPS Oral - Global Economics & Development I | |
+| :------------- | :-------------: |
+| Ms. Nur Layali Mohd Ali Khan | Speaker |
+| M.sc. Christoph Schult | Speaker |
+| Prof. Menggen Chen | Speaker |
+| Ms. Masarina Flukeria | Speaker |
+| Dr. Elizabeth Hypolito | Speaker |
+| M.sc. Moliehi Mokete | Speaker |
+
+
+
+
+| CPS Oral - Models in Official Statistics II | |
+| :------------- | :-------------: |
+| Mr. Saeed Fayyaz | Speaker |
+| Mr. Muhammad Shafiq Harun | Speaker |
+| Mr. Marcelo Pitta | Speaker |
+| Mrs. Katharina Ferling | Speaker |
+| Dr Michael Slyuzberg | Speaker |
+
+
+
+
+| CPS Oral - Sampling Design and Estimation | |
+| :------------- | :-------------: |
+| Dr. Pedro Luis Silva | Speaker |
+| Dr. Andrius Ciginas | Speaker |
+| Mr. Bernardo Martins | Speaker |
+| Mr. Tite Habiyakare | Speaker |
+| Mr. Flavio Bolliger | Speaker |
+
+
+
+
+| CPS Oral - Statistics in Practice-Some Issues II | |
+| :------------- | :-------------: |
+| Mr Dominik Rozkrut | Speaker |
+| Ms. Sâmela Arantes | Speaker |
+| Mrs. Kadek Swarniati | Speaker |
+| Ms. Maphoka Qhobela | Speaker |
+| Mr. Guido Diligenti | Speaker |
