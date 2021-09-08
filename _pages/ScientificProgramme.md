@@ -1533,3 +1533,190 @@ All times observe British Summer Time (BST)
 | Mr. Zenda Oka Briantiko | Speaker |
 | Mr Ting-Wu Wang | Speaker |
 | PhD. Sobom Matthieu Somé | Speaker |
+
+
+
+
+| IPS Non-Live 98 - Statistics education and practice in developing countries: experiences, challenges, and opportunities |
+| :------------- | :-------------: |
+| Dr. Kimberly Love | Organiser and Speaker |
+| Prof. Eric Vance | Speaker |
+| Dr. Olawale Awe | Chair |
+
+
+
+
+
+| IPS Non-Live 49 - Statistical Learning Models in Practice | |
+| :------------- | :-------------: |
+| Dr. Babak Zafari | Organiser and Speaker |
+| Dr. Tevfik Aktekin | Speaker |
+| Dr. Bumsoo Kim | Speaker |
+| Prof. Tahir Ekin | Chair |
+
+
+
+
+| IPS Non-Live 166 - Economic activities classifications - review and implementation | |
+| :------------- | :-------------: |
+| Mr. Claude Macchi | Organiser |
+| Mr. Oliver Gallusser | Speaker |
+| Ms. Mari Rantanen | Speaker |
+| Mr. Andrew Hancok | Speaker |
+| Ms. Kristin Foldal Haugen | Speaker |
+| Ms. Ilaria Di Matteo | Discussant |
+| Mr. Eduardo Barredo Capelot | Chair |
+
+
+
+
+| IPS Non-Live 140 - COVID-19 and household surveys: what have we learned and what does it mean for the future? | |
+| :------------- | :-------------: |
+| Benjamin K Mayala | Organiser and Chair |
+| Mr. Braulio Villegas González | Speaker |
+| Mr. Steve Woodland | Speaker |
+| Dr. Gero Carletto | Speaker |
+| Mr. Imam Machdi | Speaker |
+| Ms. Monica Pratesi (TBC) | Discussant |
+| Dr. Francesca Perucci | Chair |
+
+
+
+
+| IPS Non-Live 106 - Exploring Statistics on Tourism, Migration, Population and Displacements by Using Mobile Positioning Data | |
+| :------------- | :-------------: |
+| Dr. Karoly Kovacs | Organiser |
+| Ms. Titi Kanti Lestari | Speaker |
+| Ms. Mariana Jalaghonia | Speaker |
+| Mr. Siim Esko | Speaker |
+| Ms. Ayumi Arai | Speaker |
+| Mr. Dunstan Matekenya | Discussant |
+| Ms. Esperanza Magpantay | Chair |
+
+
+
+
+| IPS Non-Live 219 - New demands to improve national statistical systems | |
+| :------------- | :-------------: |
+| Dr. Misha Belkindas | Organiser and Chair |
+| Dr. Dominik Rozkrut | Speaker |
+| Dr. Saida Ismailakhunova | Organiser |
+| Dr. Stephan Krische | Speaker |
+| Dr. Alexey Ponomarenko | Speaker |
+| Mr. Craig Hammer | Speaker |
+
+
+
+
+| IPS Non-Live 74 - Recent Advances in High-dimensional Time Series Analysis | |
+| :------------- | :-------------: |
+| Dr. S. Yaser Samadi | Organiser, Speaker and Chair |
+| Prof. Ruey Tsay | Speaker |
+| Prof. Hernando Ombao | Speaker |
+
+
+
+
+| IPS Non-Live 214 - Addressing globalisation challenges | |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser and Discussant |
+| Mr. Gabriele Di Filippo | Speaker |
+| Mr. Martin Schmitz | Speaker |
+| Mr. Thiago Said Vieira | Speaker |
+| Mr. Fernando Rocha | Speaker and Chair |
+
+
+
+
+| IPS Non-Live 63 - Emerging Topics in Data Science | |
+| :------------- | :-------------: |
+| Prof. Bowei Xi | Organiser and Discussant |
+| Prof. Jun Li | Speaker |
+| Prof. Xiao Wang | Speaker |
+| Prof. Xiaoming Huo | Speaker |
+| Dr. Wutao Wei | Chair |
+
+
+
+
+| IPS Non-Live 133 - Inference on high dimensional covariance matrix | |
+| :------------- | :-------------: |
+| Dr. Johan Lim | Organiser and Chair |
+| Prof. Donghyeon Yu | Speaker |
+| Prof. Shota Katayama | Speaker |
+| Prof. Kazuyoshi Yata | Speaker |
+| Prof. Seongoh Park | Speaker |
+
+
+
+
+| IPS Non-Live - IPS81 Exploring Statistics on Tourism, Migration, Population and Displacements by Using Mobile Positioning Data: Displacement and Disas | |
+| :------------- | :-------------: |
+| Dr. Richa Vatsa | Organiser and Speaker |
+| Prof. Arun Kumar Sinha | Speaker |
+| Dr. Carla Almeida Vivacqua | Speaker |
+| Dr. Olawale Awe | Chair |
+
+
+
+
+| IPS Non-Live 143 - Recent Trends, Advances and Applications of Statistical Process Monitoring in Health | |
+| :------------- | :-------------: |
+| Dr. Athanasios Rakitzis | Organiser and Chair |
+| Dr. Leo Huberts | Speaker |
+| Dr. Athanasios Sachlas | Speaker |
+| Prof. Sotiris Bersimis | Speaker |
+| Prof. Kwok-Leung Tsui | Discussant |
+
+
+
+
+| IPS Non-Live 91 - Interplay of geometry and statistics | |
+| :------------- | :-------------: |
+| Prof. Stephan Huckemann | Organiser and Chair |
+| Prof. Hans-Georg Mueller | Speaker |
+| Dr. Benjamin Eltzner | Speaker |
+| Dr. Nina Miolane | Speaker |
+| Prof. Sungkyu Jung | Discussant |
+
+
+
+
+| IPS Non-Live 18 - Census of agriculture and COVD-19: impact and lessons | |
+| :------------- | :-------------: |
+| Dr. Jairo Castano | Organiser, Speaker and Chair |
+| Ms Soonmi Baek | Speaker |
+| Ms. Ana Maria Verdaguer | Speaker |
+| Mr. Carlos Coimbra | Speaker |
+| Ms. Helena Ramos | Discussant |
+
+
+
+
+| IPS Non-Live 204 - Corruption: from the weakness of statistics towards a more comprehensive measurement of this phenomenon | |
+| :------------- | :-------------: |
+| Mr. Adrién Franco | Organiser, Speaker, Discussant and Chair |
+| Oscar Jaimes | Speaker |
+| Salomé Flores | Speaker |
+| Ms. Dayana Perez | Co-Organiser |
+
+
+
+
+| IPS Non-Live 148 - Statistical Literacy Across Disciplines | |
+| :------------- | :-------------: |
+| Dr. Richa Vatsa | Organiser and Speaker |
+| Dr. Carla Almeida Vivacqua | Speaker |
+| Prof. Arun Kumar Sinha | Speaker |
+| Dr. Olawale Awe | Chair |
+
+
+
+
+| IPS Non-Live 90 - A new survey model to bridge the agricultural data gap | |
+| :------------- | :-------------: |
+| Ms. Sala Patterson | Organiser |
+| Mr. Dramane Bako | Speaker |
+| Ms. Flavia Naiga Oumo | Speaker |
+| Mr. Pedro Luis do Nascimento Silva | Discussant |
+| Ms. Masako Hiraga | Chair |
