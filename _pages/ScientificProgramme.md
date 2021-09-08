@@ -1058,3 +1058,227 @@ All times observe British Summer Time (BST)
 | Dr. Maarten Kampert | Speaker |
 | Mr. Sébastien Coube-Sisqueille | Speaker |
 | Mr. Sean Sithole | Speaker |
+
+
+
+
+| IPS Non-Live 131 - Reformed Journal of Data Science in the Era of Data Science | |
+| :------------- | :-------------: |
+| Prof. Jun Yan | Organiser and Chair |
+| Dr. Hanfang Yang | Speaker |
+| Dr. Wenjie Wang | Speaker |
+| Dr. Nan Li | Speaker |
+| Prof. HaiYing Wang | Discussant and Chair |
+
+
+
+
+| IPS Non-Live 137 - Meta-analysis Methods with Applications in Health Sciences | |
+| :------------- | :-------------: |
+| Prof. Shahjahan Khan | Organiser and Chair |
+| Dr. Rossita Yunus | Speaker |
+| Prof. Muhammed Memon | Speaker |
+| Ms. Emma Osland | Speaker |
+| Dr. Maha Hassan | Speaker |
+| Dr. Luis Furuya-Kanamori | Speaker |
+| Dr. Mizanur Rahman | Speaker |
+| Prof. Louise Ryan | Discussant |
+| Prof. Suhail Doi | Chair |
+
+
+
+
+| IPS Non-Live 178 - Gender, entrepreneurship and trade? integrating data for better insights | |
+| :------------- | :-------------: |
+| Ms. Anu Peltola | Organiser and Chair |
+| Mr. Tengiz Tsekvava | Speaker |
+| Mr. Henri Luomaranta | Speaker |
+| Mr Gerald Masila | Speaker |
+| Ms. Marie-France Paquet | Speaker |
+
+
+
+
+| IPS Non-Live 168 -Statistical Councils: Watchdogs or Guardian Angels for Statistical Offices | |
+| :------------- | :-------------: |
+| Prof. Aurel Schubert | Organiser and Chair |
+| Prof. Howard Ramos | Speaker |
+| Prof. Martin Kocher | Speaker |
+| Prof. David Everatt | Speaker |
+
+
+
+
+| IPS Non-Live 190 - Applying Statistics on the COVID-19 Era: Investigating Infection Rates, the Presidential Election, Investment Strategies, Systematic Cooking, and more | |
+| :------------- | :-------------: |
+| Ms. Saloni Patel | Organiser and Speaker |
+| Mr. Patrick Giuliano | Speaker |
+| Mr. Chi-Feng Ho | Speaker |
+| Mr. Chi-hong Ho | Speaker |
+| Mr. Mason Chen | Speaker |
+| Mr. Arhan Surapaneni | Discussant |
+| Mr. Siddhant Karmali | Chair |
+
+
+
+
+| IPS Non-Live 54 - Advanced Nonparametric Curve Estimation | |
+| :------------- | :-------------: |
+| Dr. Hassan Doosti | Organiser and Chair |
+| Dr. Farzaneh Boroumand | Speaker |
+| Dr. Fabien Navarro | Speaker |
+| Mr. Ali Shariati | Speaker |
+
+
+
+
+| IPS Non-Live 116 - New Development in Functional Data Learning | |
+| :------------- | :-------------: |
+| Dr. Guannan Wang | Organiser and Chair |
+| Dr. Lijian Yang | Speaker |
+| Dr. Todd Ogden | Speaker |
+| Dr. Ana-Maria Staicu | Speaker |
+| Prof. Shan Yu | Discussant |
+
+
+
+
+| IPS Non-Live 172 - Recent Advances in Statistical Methods for the Analysis of Pathology Images | |
+| :------------- | :-------------: |
+| Dr. Qiwei Li | Organiser and Chair |
+| Dr. Xiao Li | Speaker |
+| Prof. Arvind Rao | Speaker |
+| Prof. Brian Hobbs | Speaker |
+| Prof. Chul Moon | Speaker |
+
+
+
+
+| IPS Non-Live 200 - Data Science and Healthcare Informatics in the COVID Era for the Developing Countries | |
+| :------------- | :-------------: |
+| Prof. Mohsen Farid | Organiser, Discussant and Chair |
+| Prof. Passent El-Kafrawi | Speaker |
+| Dr. Pedro Contreras | Speaker |
+| Prof. Inas Khayal | Speaker |
+| Prof. Macello Trovati | Speaker |
+| Prof. Karina Gilbert | Speaker |
+| Prof. Mohamed Labib | Speaker |
+| Prof. Nasser Abdel-Bary | Speaker |
+| Prof. Magdy Dahab | Speaker |
+| Prof. Fionn Murtagh | Chair |
+
+
+
+
+| IPS Non-Live 81 - Advances and applications in exploratory methods in vector simulation | |
+| :------------- | :-------------: |
+| Prof. Luis Montiel | Organiser, Speaker, Discussant and Chair |
+| Mr. Efren Zagal | Speaker |
+| Mr. Daniel Arreola | Speaker |
+
+
+
+
+| IPS Non-Live 89 - Dimension reduction and its applications | |
+| :------------- | :-------------: |
+| Dr. Lixing Zhu | Organiser and Chair |
+| Dr. Tao Wang | Speaker |
+| Dr. lingcheng Kong | Speaker |
+| Dr. Yuling Jiao | Speaker |
+| Dr. Xin Zhang | Speaker |
+
+
+
+
+| IPS Non-Live 187 - National ownership to SDG monitoring - Achievements and Challenges | |
+| :------------- | :-------------: |
+| Ms. Vibeke Nielsen | Organiser |
+| Ms. Monica Magaua | Speaker |
+| Ms. Aberash Tariku | Speaker |
+| Ms. Phetsamone Sone | Speaker |
+| Dr. Ola Awad | Chair |
+
+
+
+
+| IPS Non-Live 27 - Advances in Sports Statistics (2 of 2) | |
+| :------------- | :-------------: |
+| Prof. Marica Manisera | Organiser and Speaker |
+| Prof. Tim Swartz | Speaker |
+| Dr. Milica Maricic | Speaker |
+| Dr. Mattia Cefis | Speaker |
+| Dr. Leonardo Egidi | Chair |
+
+
+
+
+| IPS Non-Live 36 - Statistics for citizen science | |
+| :------------- | :-------------: |
+| Dr. Geneviéve Robin | Organiser and Chair |
+| Dr. Daniel Fink | Speaker |
+| Dr. Camille Coron | Speaker |
+| Ms. Karine Prince | Speaker |
+
+
+
+
+| IPS Non-Live 212 - Relevance of data integration and advanced analytics in central bank decision-making | |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser |
+| Ms. Merve Artman | Speaker |
+| Mr. Alessandro Tang-Andersen Martinello | Speaker |
+| Mr. Daniel Muench | Speaker |
+| Ms. Maayan Kellerman | Discussant |
+| Ms. Gloria Pena | Chair |
+
+
+
+
+## July 14, 2021
+
+| 12:45 p.m. - 1 p.m. | Welcome to Day 3 |
+| :------------- | :-------------: |
+| Master of Ceremony - Jennifer Rogers | Speaker |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 50 - Measuring SDG Progress |
+| :------------- | :-------------: |
+| Mr. Pietro Gennari | Organiser and Chair |
+| Mr Guillaume Lafortune | Speaker |
+| Dr. Arman Bidarbakht Nia | Speaker |
+| Dr. Marcello D'Orazio | Speaker |
+| Dr. Guillaume Coen | Speaker |
+| Dr. Francesca Perucci | Discussant |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 195 - Infectious disease population estimation |
+| :------------- | :-------------: |
+| Mr. Daan Zult | Organiser and Speaker |
+| Dr. Irene Rocchetti | Speaker |
+| Prof. Li-Chun Zhang | Speaker |
+| Dr. Owen Gethings | Chair |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 194 - Finding Your People in Academia: Successful Networking for Collaboration and Friendship |
+| :------------- | :-------------: |
+| Dr. Julia Sharp | Organiser and Speaker |
+| Dr. Emily Griffith | Speaker |
+| Dr. Renee Moore | Speaker |
+| Dr. Rebecca Hubbard | Speaker |
+| Dr. Jessica Kohlschmidt | Chair |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 31 - From experimentation to implementation in official statistics |
+| :------------- | :-------------: |
+| Kate Burnett-isaacs | Organiser, Speaker and Chair |
+| Dr. Ioannis Kaloskampis | Speaker |
+| Ms. Sofie De Broe | Speaker |
+| Mr. Gary Dunnet | Discussant |
