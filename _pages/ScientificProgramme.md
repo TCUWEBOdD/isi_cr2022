@@ -2425,3 +2425,34 @@ Dr. Changwon Lim | Chair |
 | Dr. Bella Vakulenko-Lagun | Speaker |
 | Prof. Erica Moodie | Discussant |
 | Prof. Emma McCoy | Chair |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 41 - The Evolution of the 21st Century Census of Population and Housing |
+| :------------- | :-------------: |
+| Dr. James Chipperfield | Organiser and Chair |
+| Ms. Afsaneh Yazdani | Speaker |
+| Mr. Gary Dunnet | Speaker |
+| Ms. Valérie Roux | Speaker |
+| Prof. James Brown | Discussant |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 158 - Turning Ideas into Action to Empower Women |
+| :------------- | :-------------: |
+| Dr. Jessica Kohlschmidt | Organiser |
+| Ms. Cathy Furlong | Speaker |
+| Dr. Rajeshwari Sundaram | Speaker |
+| Ms. Gemma Van Halderen | Speaker |
+
+
+
+
+| 1 p.m. - 2 p.m. | SIPS 238 - IAOS and IBS Early Career Award Presentations |
+| :------------- | :-------------: |
+| Director Ada van Krimpen | Organiser, Speaker and Chair |
+| Ms. Fernanda Da Bastiani | Speaker |
+| Mr. Oscar Andres Espinosa Acuna | Speaker |
+| Ms. Kenza Sallier | Speaker |
