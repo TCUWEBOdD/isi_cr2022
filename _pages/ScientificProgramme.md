@@ -1720,3 +1720,188 @@ All times observe British Summer Time (BST)
 | Ms. Flavia Naiga Oumo | Speaker |
 | Mr. Pedro Luis do Nascimento Silva | Discussant |
 | Ms. Masako Hiraga | Chair |
+
+
+
+
+## July 15, 2021
+
+
+
+
+| 9:45 a.m. - 10 a.m. | Welcome to Day 4 |
+| :------------- | :-------------: |
+| Master of Ceremony - Jennifer Rogers | Speaker |
+
+
+
+
+| 10 a.m. - 11 a.m. | President's Invited Speaker: The Origami of Data Science |
+| :------------- | :-------------: |
+| Prof. John Bailer | Chair |
+| Prof. Kerrie Mengerson | Speaker |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 16 - Building statistical registers in countries with no administrative population registers |
+| :------------- | :-------------: |
+| Mr. Jean-michel Durr | Organiser and Chair |
+| Ms. Christine Bycroft | Speaker |
+| Ms. Julie Trépanier | Speaker |
+| Kostas Loukas | Speaker |
+| Mr. Olivier Haag | Speaker |
+| Ms. Sanela Jojkic | Speaker |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 125 - Modern Statistical Techniques for Reliability Analysis |
+| :------------- | :-------------: |
+| Prof. Asha Gopalakrishnan | Organiser and Speaker |
+| Prof. Willam Meeker | Speaker |
+| Prof. Debasis Kundu | Speaker |
+| Prof. Debanjan Mitra | Discussant |
+| Dr. Fabrizio Ruggeri | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 93 - Nonparametric Statistical Learning of Complex Data |
+| :------------- | :-------------: |
+| Prof. Lily Wang | Organiser and Discussant |
+| Prof. Guannan Wang | Speaker |
+| Prof. Honglang Wang | Speaker |
+| Prof. Xinyi Li | Speaker |
+| Prof. Mary Meyer | Speaker |
+| Prof. Shan Yu | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 110 - Recent developments in stochastic calculus and theoretical statistics |
+| :------------- | :-------------: |
+| Prof. Hiroki Masuda | Organiser |
+| Prof. Ciprian Tudor | Speaker |
+| Prof. Mark Podolski | Speaker |
+| Prof. Nakahiro Yoshida | Speaker |
+| Prof. Masayuki Uchida | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 104 - Strategies for Effectively Communicating Public Policy Statistics |
+| :------------- | :-------------: |
+| Prof. John Bailer | Organiser and Chair |
+| Mr. Dick ter Steege | Speaker |
+| Dr. Liberty Vittert | Speaker |
+| Dr. Jonathan Auerbach | Discussant |
+| Dr. Regina Nuzzo | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 39 - Time series forecasting: Computational challenges and application to electricity load forecasting |
+| :------------- | :-------------: |
+| Prof. Paulo Canas Rodrigues | Organiser and Speaker |
+| Prof. Jean-Michel Poggi | Speaker |
+| Prof. Ying Chen | Speaker |
+| Prof. Rodrigo Salas | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 205 - Trust in public institutions and trust in statistics |
+| :------------- | :-------------: |
+| Adrián Franco | Organiser, Discussant and Chair |
+| Marte Lund Saga | Speaker |
+| Ms. Monica Brezzi | Speaker |
+| Oscar Jaimes | Speaker |
+| Ms. Dayana Perez | Organiser |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 65 - Women in survey sampling research and practice |
+| :------------- | :-------------: |
+| Prof. Alina Matei | Organiser |
+| Prof. Frauke Kreuter | Speaker |
+| Prof. Anne Ruiz-Gazen | Speaker |
+| Ms. Katherine J. Thompson | Speaker |
+| Prof. Monica Pratesi | Discussant |
+| Prof. Maria Giovanna Ranalli | Chair |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | IPS 154 - Young Women in Statistics Prize Winners: Where are they now? |
+| :------------- | :-------------: |
+| Ms. Gemma Van Halderen | Organiser and Chair |
+| Ms. Helle Visk | Speaker |
+| Ms. Nancy Wang | Speaker |
+| Ms. Kenza Sallier | Speaker |
+| Ms. Peta Darby | Speaker |
+| Ms. Mariana Kotzeva | Discussant |
+
+
+
+
+| 11 a.m. - 12:30 p.m. | SIPS 230 - Session of the IASE Journal – Statistics Education Research Journal (SERJ) |
+| :------------- | :-------------: |
+| Prof. Jennifer Kaplan | Organiser |
+| Dr. Douglas Whitaker | Speaker |
+| Dr. Daniel Frischemeier | Speaker |
+| Dr. Aisling Leavy | Speaker |
+
+
+
+
+| 2:30 p.m. - 4 p.m. | IPUMS International Live Workshop |
+| :------------- | :-------------: |
+|||
+
+
+
+
+| 5 p.m. - 6 p.m. | 234 - ISI Author Workshop - sponsored by Wiley |
+| :------------- | :-------------: |
+|||
+
+
+
+
+| 5:45 p.m. - 6 p.m. | Welcome to day 4 |
+| :------------- | :-------------: |
+| Master of Ceremony - Jennifer Rogers | Speaker |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 244 - Developing Machine Learning Methods in Experimental Official and Analytical Statistics |
+| :------------- | :-------------: |
+| Dr.,Prof Elena Zarova | Organiser, Speaker and Chair |
+| Mr. Ilya Zalmanov | Speaker |
+| Dr.Sergey Musikhin | Speaker |
+| Mrs. Elvira Dubravskaya | Speaker |
+| Maria Frolova | Discussant |
+| Prof. Bakhodur Begalov | Co-Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS - Adventures with Amani |
+| :------------- | :-------------: |
+| Dr. Fabrizio Ruggeri | Chair |
+| Ms. Marion Bakhoya | Speaker |
+| Ms. Alison Tuiyott | Speaker |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 22 - Cross-Cultural Leadership in Statistics and Data Science for a Better World |
+| :------------- | :-------------: |
+| Dr. Amanda Golbeck | Organiser and Chair |
+| Dr. Ksenija Dumicic | Speaker |
+| Dr. James Cochran | Speaker |
+| Dr. Helen MacGillivray | Speaker |
+| Dr. Wendy Martinez | Discussant |
