@@ -2179,3 +2179,182 @@ Mr. Frantisek Bernadic | Chair |
 | Mr. João Gabriel Malaguti | Speaker |
 | Dr. Michael Larsen | Speaker |
 | Dr. Caitlin Clary | Speaker |
+
+
+
+
+| IPS Non-Live 97 - Applications of Emerging Statistical Approaches to Medical Imaging Data | |
+| :------------- | :-------------: |
+Dr. Cheolwoo Park | Organiser |
+Dr. Joseph Poythress | Speaker |
+Dr. Seonjoo Lee | Speaker |
+Mr. Kristoffer Wickstrøm | Speaker |
+Dr. Changwon Lim | Chair |
+
+
+
+
+| IPS Non-Live 99 - Bayesian Computation with Different Applications | |
+| :------------- | :-------------: |
+| Prof. Ray-bing Chen | Organiser |
+| Prof. Linda Siew Li Tan | Speaker |
+| Prof. Feng-Chi Liu | Speaker |
+| Prof. Chanmin Kim | Speaker |
+| Prof. Kuo-Jung Lee | Chair |
+
+
+
+
+| IPS Non-Live 177 - Communication and dissemination in the ESS in times of Covid-19 | |
+| :------------- | :-------------: |
+| Mr. Lukasz Augustyniak | Organiser and Chair |
+| Susanne Taillemite | Chair |
+| Ms. Maja Islam | Speaker |
+| Mr. Jörg Decker | Speaker |
+| Mr. Timothy Allen | Speaker |
+| Ms. Giulia Mottura | Speaker |
+
+
+
+
+| IPS Non-Live 134 - Identification of important variables in structured big data | |
+| :------------- | :-------------: |
+| Dr. Anang Kurnia | Organiser |
+| Dr. Arief Gusnanto | Speaker |
+| Ms. Novi Hidayat Pusponegoro | Speaker |
+| Dr. Bagus Sartono | Speaker |
+| Dr. Agus Salim | Discussant |
+| Dr. Anang Kurnia | Chair |
+
+
+
+
+| IPS Non-Live 213 - Implications of the Digital Economy for Official Statistics | |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser |
+| Ms Moegi Inoue | Speaker |
+| Mr. Francis Gross | Speaker |
+| Ms. Sahoko Furuta | Speaker |
+| Mr. Jens Mehrhoff | Discussant |
+| Mr. Ko Nakayama | Chair |
+
+
+
+
+| IPS Non-Live 83 - Indiscriminate Waste Disposal and Management During the Pandemic in Nigeria | |
+| :------------- | :-------------: |
+| Dr. Adedayo Adepoju | Organiser |
+| Dr. Oluwadare Ojo | Speaker |
+| Dr. Olalekan Obisesan | Speaker |
+| Dr. Enobong Udoumoh | Speaker |
+| Prof. Ademola Sodipo | Discussant |
+| Dr. Adedayo Adepoju | Chair |
+
+
+
+
+| IPS Non-Live 199 - Integrating Business Survey to support the 2030 Agenda: Experience from Australia and Indonesia | |
+| :------------- | :-------------: |
+| Dr. Titi Kanti Lestari | Organiser |
+| Mr. Francesco Tornatore | Speaker |
+| Mr. Andri Yudi Supriyadi | Speaker |
+| Mr. Kevin Bolt | Speaker |
+| Ms. Rikke Munk Hansen | Discussant |
+| Mr. Sue Ellen Luke | Chair |
+
+
+
+
+| IPS Non-Live 218 - Lessons Learned from Transforming Evidence to Action for Capacity Development through the LISA 2020 Network | |
+| :------------- | :-------------: |
+| Dr. Kimberly Love | Organiser and Chair |
+| Prof. Bhaswati Ganguli | Speaker |
+| Prof. Olusanya Olubusoye | Speaker |
+| Prof. Atinuke Adebanji | Speaker | 
+| Prof. Eric Vance | Discussant |
+
+
+
+
+| IPS Non-Live 179 - Measuring illicit financial flows in official statistics | |
+| :------------- | :-------------: |
+| Ms. Anu Peltola | Organiser |
+| Mr. Bishop Akolgo | Speaker |
+| Mr. Bojan Nastav | Speaker |
+| Ms. Diana Camerini | Speaker |
+| Ms. Salomé Flores Sierra Franzoni | Speaker |
+| Ms. Kathy Nicolaou-Manias | Discussant |
+
+
+
+
+| IPS Non-Live 64 - Models of biochemical reaction networks | |
+| :------------- | :-------------: |
+| Dr. Daniele Cappelletti | Organiser |
+| Prof. Hye-Won Kang | Speaker |
+| Mr. Claudio Del Sole | Speaker |
+| Prof. Carsten Wiuf | Speaker |
+
+
+
+
+| IPS Non-Live 206 - Panel Session Title: Data Challenges for Missing and Exploited Children: How Can Data Scientists and Practitioners Work Together? | |
+| :------------- | :-------------: |
+| Dr. Nimai Mehta | Organiser |
+| Dr. Ana Nora Donaldson | Speaker |
+| Dr. Manjeer Mukherjee | Speaker |
+| Dr. Maria Barouti | Speaker |
+| Dr. Toks Fashola | Speaker |
+| Ms. Caroline Humer | Speaker |
+| Dr. Stephanie Miller | Speaker |
+| Dr. Mary Gray | Chair |
+
+
+
+
+| IPS Non-Live 207 - Statistical Modeling of Simulated Gaming Methodology | |
+| :------------- | :-------------: |
+| Mr. Siddhant Karmali | Organiser |
+| Ms. Saloni Patel | Speaker |
+| Mr. Arhan Surapaneni | Speaker |
+| Mr. Mason Chen | Speaker |
+| Ms. Logeshwari Chandramohan | Speaker |
+| Mr. Horatio Ho | Speaker |
+| Mr. Acme Ho | Chair |
+
+
+
+
+| IPS Non-Live 186 - Strengthening Administrative data: what countries have learned and applied from the administrative data collaborative | |
+| :------------- | :-------------: |
+| Ms. Karen Bett | Chair |
+| Mr. Jorge Urrutia | Speaker |
+| Mr. Phub Sangay | Speaker |
+| Ms. Ximena Clark | Speaker |
+| Ms. Vibeke Nielsen | Speaker |
+
+
+
+
+| IPS Non-Live 88 - The Mirror has Two Faces: An Analysis of Asymmetries in Official International Merchandise Trade Statistics | |
+| :------------- | :-------------: |
+| Ms. Wan Siti Zaleha Wan Zakaria | Organiser |
+| Ms. Siti Haslinda Mohd Din | Speaker |
+| Mr. Markie Muryawan | Speaker |
+| Mr. Fathur Rachman | Speaker |
+| Ms. Janine De Vera | Speaker |
+| Mr. Ulrich Eidmann | Speaker |
+| Mr. Ronald Jansen | Discussant |
+| Dr. Mohd Uzir Mahidin | Chair |
+
+
+
+
+## July 16, 2021
+
+
+
+
+| 12:45 p.m. - 1 p.m. | Welcome to Day 5 |
+| :------------- | :-------------: |
+| Master of Ceremony - Jennifer Rogers | Speaker |
