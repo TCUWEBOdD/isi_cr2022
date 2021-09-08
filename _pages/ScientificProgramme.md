@@ -1282,3 +1282,141 @@ All times observe British Summer Time (BST)
 | Dr. Ioannis Kaloskampis | Speaker |
 | Ms. Sofie De Broe | Speaker |
 | Mr. Gary Dunnet | Discussant |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 43 - Trusted Smart Surveys |
+| :------------- | :-------------: |
+| Ms. Shari Stehrenberg | Organiser and Speaker |
+| Mr. Barry Schouten | Speaker |
+| Ms. Claudia De Vitiis | Speaker |
+| Mr. Konstantinos Giannakouris | Discussant |
+| Prof. Markus Zwick | Chair |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 130 - Data integration techniques in household surveys |
+| :------------- | :-------------: |
+| Dr. Nino Mushkudiani | Organiser and Speaker |
+| Dr. Jonas Schenkel | Speaker |
+| Dr. Danhyang Lee | Speaker |
+| Mr. Lyndon Ang | Speaker |
+| Prof. Li-Chun Zhang | Chair |
+
+
+
+
+| 1 p.m. - 2 p.m. | SIPS 15 - Bernoulli Presidential Invited Lecture |
+| :------------- | :-------------: |
+| Prof. Claudia Kluppelberg | Organiser, Discussant and Chair |
+| Prof. Markus Reiss | Speaker |
+
+
+
+
+| 1 p.m. - 2 p.m. | SIPS 217 - Unintended Consequences of COVID-policy on Health and the Environment |
+| :------------- | :-------------: |
+| Dr. Ayesha Ali | Organiser and Discussant |
+| Dr. Patrick Brown | Speaker |
+| Dr. Elena Naumova | Speaker |
+| Dr. Nathaniel Newlands | Speaker |
+| Prof. Alexandra Schmidt | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 12 - Bernoulli Society New Researcher Award Session 2021 |
+| :------------- | :-------------: |
+| Prof. Sebastian Engelke | Organiser and Speaker |
+| Prof. Anru Zhang | Speaker |
+| Prof. Fang Han | Speaker |
+| Prof. Aaditya Ramdas | Speaker |
+| Adam Jakubowski | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 58 - Validating the Independence and Integrity of Statistics around the World (Panel Session) |
+| :------------- | :-------------: |
+| Dr. Walter J Radermacher | Organiser and Chair |
+| Dr. Juraj Medzihorsky | Speaker |
+| Ms. Nancy Potok | Speaker |
+| Ms. Shaida Badiee | Speaker |
+| Mr. John Pullinger | Speaker |
+| Dr. Andreas Georgiou | Discussant |
+| Ms. Stella Bollmann | Discussant |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 245 - Teaching Statistics for Empowerment and Social Engagement |
+| :------------- | :-------------: |
+| Prof. Jim Ridgway | Speaker |
+| Prof. Joachim Engel | Speaker |
+| Dr. Susanne Podworny | Speaker |
+| Dr. Daniel Frischemeier | Speaker |
+| Prof. Rolf Biehler | Speaker |
+| Prof. Karen Francois | Discussant |
+| Prof. Pedro Campos | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 160 - SDGs indicators: methods to analyze survey data to monitor/measure vulnerabilities |
+| :------------- | :-------------: |
+| Prof. Monica Pratesi | Organiser and Chair |
+| Dr. Gaia Bertarelli | Speaker |
+| Prof. Angeles Sanchez Dominguez | Speaker |
+| Prof. Pang Xiaopeng | Speaker |
+| Prof. Maria Giovanna Ranalli | Discussant |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 141 - IASS Tribute session to Lars Lyberg: How survey experts can contribute to the better use of citizen-generated data for public policy? |
+| :------------- | :-------------: |
+| Ms. Yongyi Min | Organiser and Chair |
+| Mr. John Mayende | Organiser |
+| Dr. Paul Biemer | Speaker |
+| Ms. Shikha Shrestha | Speaker |
+| Mr. Francois Brisebois | Organiser |
+| Ms. Saionara König-Reis | Discussant |
+| Benjamin K Mayala | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 52 - Statistical Engineering for a Better World |
+| :------------- | :-------------: |
+| Dr. Marit Schoonhoven | Organiser |
+| Dr. Byran Smucker | Speaker |
+| Dr. Leo Huberts | Speaker |
+| Dr. Roger W. Hoerl | Speaker |
+| Prof. Ronald J.M.M. Does | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 100 - On the visualisation of digital socio-economic data |
+| :------------- | :-------------: |
+| Prof. Eric Beh | Organiser, Speaker and Chair |
+| Prof. Niel Le Roux | Speaker |
+| Prof. Junji Nakano | Speaker |
+| Prof. Rosaria Lombardo | Chair |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | IPS 144 - Recent Trends, Advances and Applications of Statistical Process Monitoring |
+| :------------- | :-------------: |
+| Dr. Athanasios Rakitzis | Organiser and Speaker |
+| Prof. Amitava Mukherjee | Speaker |
+| Prof. Polychronis Economou | Speaker |
+| Prof. William Woodall | Discussant |
+| Prof. Sotiris Bersimis | Chair |
+
+
+
+
