@@ -1905,3 +1905,277 @@ All times observe British Summer Time (BST)
 | Dr. James Cochran | Speaker |
 | Dr. Helen MacGillivray | Speaker |
 | Dr. Wendy Martinez | Discussant |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 124 - Modelling Population Nutrition Outcomes with Historical Survey Data in South Sudan |
+| :------------- | :-------------: |
+| Mr. Saeed Rahman | Organiser and Speaker |
+| Mr. Qutab Alam Khan | Speaker |
+| Mr. Ismail Kassim | Discussant |
+| Mr. Hermann Ouedraogo | Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 196 - Modernising the Introductory Statistics Course |
+| :------------- | :-------------: |
+| Dr. Jack Miller | Organiser and Chair |
+| Dr. Soma Roy | Speaker |
+| Dr. Jo Hardin | Speaker |
+| Dr. Maria Tackett | Speaker |
+| Mine Çetinkaya-Rundel | Discussant |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 175 - New developments in central bank statistics around the world |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser |
+| Mr. Omiros Kouvavas | Speaker |
+| Mr. Tim Ginker | Speaker |
+| Ms. Pamela Kaye A Tuazon | Speaker |
+| Mr. Alfonso Rosolia | Discussant |
+| Ms. Silke Stapel-Weber | Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 37 - Statistical inference for biological processes, reaction networks and epidemics |
+| :------------- | :-------------: |
+| Prof. Enrico Bibbona | Organiser and Chair |
+| Dr. Ankit Gupta | Speaker |
+| Prof. Ruth Baker | Speaker |
+| Prof. Greg Rempala | Speaker |
+
+
+
+
+| 6 p.m. - 7 p.m. | IPS 103 - Theoretical developments in recent computational methodologies for Bayesian inference |
+| :------------- | :-------------: |
+| Prof. Nakahiro Yoshida | Organiser |
+| Prof. Christophe Andrieu | Speaker |
+| Dr. Kengo Kamatani | Speaker |
+| Prof. Pierre Del Moral | Speaker |
+| Prof. Hiroki Masuda | Chair |
+
+
+
+
+| 6 p.m. - 7 p.m. | SIPS 241 - Insights and Observations from Leaders of Statisticial Societies |
+| :------------- | :-------------: |
+| Prof. John Bailer | Organiser and Chair |
+| Dr. Kathy Ensor | Speaker |
+| Dr. Jose Pinheiro | Speaker |
+| Dr. Regina Liu | Speaker |
+| Dr. Sylvia Richardson | Speaker |
+
+
+
+
+| 6 p.m. - 7 p.m. | SIPS 229 - Measuring the Performance of National Statistical Systems |
+| :------------- | :-------------: |
+| Mr. John Pullinger | Organiser and Chair |
+| Mr. Umar Serajuddin | Speaker |
+| Prof. Lisa Bersales | Discussant |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 233 - Data Science & Statistics |
+| :------------- | :-------------: |
+| Prof. Elisabetta Carfagna | Chair |
+| Prof. Nathaniel Newlands | Speaker |
+| Prof. Angela Montanari | Speaker |
+| Prof. Trevor Hastie | Speaker |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 182 - An integrated statistical framework for measuring sustainability: the case of tourism |
+| :------------- | :-------------: |
+| Ms. Clara van der Pol | Organiser |
+| Ms. Vivian Ilarina | Speaker |
+| Mr. Raul Figueroa | Speaker |
+| Ms. Christina Leala Gale | Speaker |
+| Ms. Clara van der Pol | Speaker |
+| Mr. Peter Laimer | Chair |
+| Mr. Bert Kroese | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 46 - Causal Inference and Applications |
+| :------------- | :-------------: |
+| Prof. Jonas Peters | Organiser and Chair |
+| Prof. Michael Hudgens | Speaker |
+| Prof. Stijn Vansteelandt | Speaker |
+| Prof. Susan Athey | Speaker |
+| Prof. Vanessa Didelez | Discussant |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 25- Extremes for Stochastic Processes |
+| :------------- | :-------------: |
+| Stilian Stoev | Organiser and Chair |
+| Dr. Rafal Kulik | Speaker |
+| Dr. Anja Janssen | Speaker |
+| Dr. Yizao Wang | Speaker |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 96 - Innovative Modeling Approaches in the Production of Official Statistics in Agriculture |
+| :------------- | :-------------: |
+| Ms. Barbara Rater | Organiser and Chair |
+| Dr. Artur Łączyński | Speaker |
+| Dr. Rajender Prasad | Speaker |
+| Dr. Linda Young | Speaker |
+| Mr. Michael Steiner | Discussant |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 60 - Issues in Modern Transportation Statistics |
+| :------------- | :-------------: |
+| Prof. David Banks | Organiser and Discussant |
+| Prof. Feng Guo | Speaker |
+| Prof. David Rios Insua | Speaker |
+| Prof. Vadim Sokolov | Speaker |
+| Dr. Roi Naveiro Flores | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 180 - Lessons learned for macroeconomic statistics from the Covid-19 pandemic |
+| :------------- | :-------------: |
+Mr. John Verrinder | Organiser
+
+ 
+Mr. Alfredo CRISOBAL CRISTOBAL | Speaker |
+Mr. Albert Braakmann | Speaker |
+Mr. Christoph Maier | Speaker |
+Mr. Frantisek Bernadic | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 59 - Past, Present and Future of Women in Statistics and Data Science |
+| :------------- | :-------------: |
+| Prof. Guadalupe Gomez Melis | Organiser and Chair |
+| Prof. Lynne Billard | Speaker |
+| Dr. Mine Cetinkaya-Rundel | Speaker |
+| Dr. Noel-Ann Bradshaw | Speaker |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 57 - Recent Advances for Estimation and Imputation in Complex Surveys |
+| :------------- | :-------------: |
+| Prof. Scott Holan | Organiser, Speaker and Chair |
+| Dr. Daniell Toth | Speaker |
+| Prof. David Haziza | Speaker |
+| Ms. Katherine Jenny Thompson | Speaker |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | IPS 128 - Remote access facilities for NSI microdata: safety, operations and impact |
+| :------------- | :-------------: |
+| Dr. Annette Scherpenzeel | Organiser, Speaker and Chair |
+| Dr. Kamel Gadouche | Speaker |
+| Dr. Nick O'Donnell | Speaker |
+| Prof. Roxane Silberman | Chair |
+
+
+
+
+| 7 p.m. - 8:30 p.m. | SIPS 94 - Journal of Data Science, Statistics, and Visualisation session |
+| :------------- | :-------------: |
+| Prof. Stefan Van Aelst | Organiser and Chair |
+| Prof. Kwan-Liu Ma | Speaker |
+| Peter Filzmoser | Speaker |
+| Prof. Patrick Groenen | Chair |
+
+
+
+
+| CPS Oral - Business/Manufacturing | |
+| :------------- | :-------------: |
+| Mrs. Natalie Rosenski | Speaker |
+| Ms. Inês Marques | Speaker |
+| Ms. Maria Almeida Silva | Speaker |
+| Mr. Ranjeet Patil | Speaker |
+| Mr. Luis Federico Flores | Speaker |
+| Dr. David Han | Speaker |
+
+
+
+
+
+| CPS Oral - Health and Biomedical Analysis II | |
+| :------------- | :-------------: |
+| Prof. Yu Jin | Speaker |
+| Ms. Isabella Ratna Putri | Speaker |
+| Dr. Klaus Telkmann | Speaker |
+| Dr. M. Iftakhar Alam | Speaker |
+| Prof. Christina Parpoula | Speaker |
+| Dr. Samer A. Kharroubi | Speaker |
+
+
+
+
+| CPS Oral - Models in Official Statistics I | |
+| :------------- | :-------------: |
+| Mr. Zaza Yuda Perwira | Speaker |
+| Dr. ir. Michael Reusens | Speaker |
+| Dr.,Prof Elena Zarova | Speaker |
+| Mr. Chris-Gabriel Islam | Speaker |
+| Dr. Victor Alfredo Bustos | Speaker |
+| Dr. Joane Elleouet | Speaker |
+
+
+
+
+| CPS Oral - Statistical Literacy | |
+| :------------- | :-------------: |
+| Prof. Ayse Aysin Bombaci Bilgin | Speaker |
+| PhD. Veljko Jeremic | Speaker |
+| Ms. Adriane Caroline Teixeira Portela | Speaker |
+
+
+
+
+| CPS Oral - Statistical Modeling II | |
+| :------------- | :-------------: |
+| Dr. Tao Sun | Speaker |
+| Dr. Junfan Tao | Speaker |
+| Mr. Carlos De La Calle-arroyo | Speaker |
+| Dr. Moinak Bhaduri | Speaker |
+| Mr. Hideto Shigemoto | Speaker |
+
+
+
+
+| CPS Oral - Statistics in Practice-Some Issues I | |
+| :------------- | :-------------: |
+| Mr. Zoltán Vereczkei | Speaker |
+| Mr. Donald Macnaughton | Speaker |
+| Dr. Seyyed Mahdi Sadati Nooshabadi | Speaker |
+| Dr. Nisrine Ghefou | Speaker |
+| Mr. Ken Archer | Speaker |
+| Michiko Wolcott | Speaker |
+
+
+
+
+
+| CPS Oral - Topics in survey sampling | |
+| :------------- | :-------------: |
+| Mr. Dale Rhoda | Speaker |
+| Mr. Guilherme Jacob | Speaker |
+| Mr. João Gabriel Malaguti | Speaker |
+| Dr. Michael Larsen | Speaker |
+| Dr. Caitlin Clary | Speaker |
