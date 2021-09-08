@@ -2358,3 +2358,70 @@ Dr. Changwon Lim | Chair |
 | 12:45 p.m. - 1 p.m. | Welcome to Day 5 |
 | :------------- | :-------------: |
 | Master of Ceremony - Jennifer Rogers | Speaker |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 40 - Extreme Value Statistics |
+| :------------- | :-------------: |
+| Dr. Kirstin Strokorb | Organiser and Chair |
+| Prof. Dan Cooley | Speaker |
+| Prof. Axel Bücher | Speaker |
+| Prof. Marie Kratz | Speaker |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 11 - Creating a better world using composite indicators |
+| :------------- | :-------------: |
+| Dr. Milica Maricic | Organiser and Chair |
+| Prof. Zagorka Lozanov Crvenkovic | Speaker |
+| Dr. Carlo Cavicchia | Speaker |
+| Prof. Marina Dobrota | Speaker |
+| Prof. Erniel Barrios | Speaker |
+| PhD. Veljko Jeremic | Discussant |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 163 - Assessing the socio-economic impact of Covid19 Pandemic |
+| :------------- | :-------------: |
+| Prof. Paola Cerchiello | Organiser and Chair |
+| Prof. Leonhard Held | Speaker |
+| Prof. Andrea Renda | Speaker |
+| Prof. Paolo Giudici | Speaker |
+| Prof. Ira Haavisto | Discussant |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 84 - Advancements in Capture-Recapture Methods with Application in Social sciences and Humanitarian Crisis |
+| :------------- | :-------------: |
+| Dr. Prajamitra Bhuyan | Organiser |
+| Dr. Daniel Manrique-Vallier | Speaker |
+| Prof. Rachel McCrea | Speaker |
+| Dr. Kiranmoy Chatterjee | Speaker |
+| Dr. Maciej Berésewicz | Discussant |
+| Prof. Dankmar Böhning | Chair |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 153 - Enhancing growth and productivity indicators based on European national accounts |
+| :------------- | :-------------: |
+| Ms. Nadia Di Veroli | Organiser |
+| Dr. Juan Manuel Valderas-Jaramillo | Speaker |
+| Dr. Robert Stehrer | Speaker |
+| Mr. John Verrinder | Discussant and Chair |
+
+
+
+
+| 1 p.m. - 2 p.m. | IPS 85 - Recent Advancements in Causal Analysis with Application in Policy Decisions |
+| :------------- | :-------------: |
+| Dr. Prajamitra Bhuyan | Organiser |
+| Dr. Amit Sharma | Speaker |
+| Dr. Bikram Karmakar | Speaker|
+| Dr. Bella Vakulenko-Lagun | Speaker |
+| Prof. Erica Moodie | Discussant |
+| Prof. Emma McCoy | Chair |
