@@ -1420,3 +1420,116 @@ All times observe British Summer Time (BST)
 
 
 
+| 2 p.m. - 3:30 p.m. | IPS 136 - Recent Developments on High-Dimensional Statistics and Applications to OMICS Data |
+| :------------- | :-------------: |
+| Dr. Debmalya Nandy | Organiser and Chair |
+| Dr. Jingyi Jessica Li | Speaker |
+| Dr. Runze Li | Speaker |
+| Dr. Shubhadeep Chakraborty | Speaker |
+| Dr. Marzia Angela Cremona | Speaker |
+
+
+
+
+| 2 p.m. - 3:30 p.m. | SIPS 184 - Effectiveness of the outreach of official statistics standards and guidelines, methodologies and recommendations to developing statistical systems |
+| :------------- | :-------------: |
+| Dr. Ivo Havinga | Speaker |
+| Dr. Pieter Everaers | Organiser and Chair |
+| Dr. Valerie Bizier | Speaker |
+| Prof. Lisa Bersales | Speaker |
+| Dr. Stephen MacFeely | Speaker |
+| Dr. Hugues Kouadio | Discussant |
+
+
+
+
+
+| 3:30 p.m. - 4:30 p.m. | ISI General Assembly |
+| :------------- | :-------------: |
+| Description | Registration for the General Assembly is now closed. If you have registered for this event, you will have received an email with direct access to this session. |
+| Prof. John Bailer | Chair |
+| Director Ada van Krimpen | Speaker |
+| Stephen Penneck | Speaker |
+| Prof. Claudia Kluppelberg | Speaker |
+| Mr. John Pullinger | Speaker |
+| Prof. Jurgen Symanzik | Speaker |
+| Prof. Joachim Engel | Speaker |
+| Dr. Denise Britz do Nascimento Silva | Speaker |
+| Dr. Fabrizio Ruggeri | Speaker |
+| Lelys Bravo | Speaker |
+
+
+
+
+| CPS Oral - Quality of Life | |
+| :------------- | :-------------: |
+| Mr. Ahmad Risal | Speaker |
+| Dr. Paulo Oliveira | Speaker |
+| Mr. Suryo Adi Rakhmawan | Speaker |
+
+
+
+
+| CPS Oral - Statistics in Education | |
+| :------------- | :-------------: |
+| Dr. Kelly Findley | Speaker |
+| Ass. Prof. Florian Berens | Speaker |
+| Mr. Jose Martins | Speaker |
+| Head Of Research Jukka Hoffrén | Speaker |
+| Dr. Elisa Henning | Speaker |
+| Dr. Monday Adenomon | Speaker |
+
+
+
+
+| CPS Oral - Estimation and Regression | |
+| :------------- | :-------------: |
+| Mr. Oskar Laverny | Speaker |
+| Mr. Magno Tairone de Freitas Severino | Speaker |
+| Mr. Shogo Nakakita | Speaker |
+| Ph.d. Tao Wang | Speaker |
+| Prof. Andrej Srakar | Speaker |
+
+
+
+
+| CPS Oral - Bayesian Modeling | |
+| :------------- | :-------------: |
+| Dr. Khue-Dung Dang | Speaker |
+| Ms. Tanita Botha | Speaker |
+| Dr. Federico Castelletti | Speaker |
+| Dr. Marcelo da Silva | Speaker |
+| Ms. Lizbeth Naranjo-Albarrán | Speaker |
+
+
+
+
+| CPS Oral - Statistics in Practice-Some Issues IV | |
+| :------------- | :-------------: |
+| Ms. Mika Naumanen | Speaker |
+| Mr. Rabi'atul'adawiah Shabli | Speaker |
+| Ms. Mariana Oliva | Speaker |
+| Ms. Atika Kautsar Ilafi | Speaker |
+| Dr. Average Chigwenya | Speaker |
+
+
+
+
+| CPS Oral - Health and Biomedical Analysis I | |
+| :------------- | :-------------: |
+| Prof. Gilbert Habaasa | Speaker |
+| Dr. taban Baghfalaki | Speaker |
+| Ph.D. Student Claudio Junior Salaroli | Speaker |
+| Ms. Honeylet Santos | Speaker |
+| MSc Elham Yousefi | Speaker |
+
+
+
+
+| CPS Oral - Statistical Modeling | |
+| :------------- | :-------------: |
+| Dr. Tabea Rebafka | Speaker |
+| Dr. Carlos Alberto Cardozo Delgado | Speaker |
+| Mr. Zenda Oka Briantiko | Speaker |
+| Mr Ting-Wu Wang | Speaker |
+| PhD. Sobom Matthieu Somé | Speaker |
