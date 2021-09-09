@@ -2662,3 +2662,175 @@ Dr. Changwon Lim | Chair |
 | Mrs. Kadek Swarniati | Speaker |
 | Ms. Maphoka Qhobela | Speaker |
 | Mr. Guido Diligenti | Speaker |
+
+
+
+
+| IPS Non-Live 67 - Capturing Informal and Micro Economy in the Era of Digital | |
+| :------------- | :-------------: |
+| Ms. Mazreha Ya'akub | Organiser |
+| Ms. Kumutha Shanmugam | Speaker |
+| Ms. Noradilah Adnan | Speaker |
+| Mr. Ahmad Najmi Ariffin | Speaker |
+| Ms. Aidawani Abdullah | Speaker |
+| Dr. Mohd Uzir Mahidin | Chair |
+
+
+
+
+| IPS Non-Live 14 - Computationally Efficient Statistical Methods for Inference on Data with Complex Structures | |
+| :------------- | :-------------: |
+| Prof. Wen Zhou | Organiser |
+| Dr. Asaf Weinstein | Speaker |
+| Prof. Arun Kumar Kuchibhotla | Speaker |
+| Prof. Zhigen Zhao | Speaker |
+| Prof. Kai Zhang | Speaker |
+
+
+
+
+| IPS Non-Live 173 - Cooperation issues between NSOs and Central Banks | |
+| :------------- | :-------------: |
+| Mr. Bruno Tissot | Organiser |
+| Mr. Luís Morais Sarmento | Discussant |
+| Ms. Yukiho Ishigam | Speaker |
+| Mr. Swapan-Kumar Pradhan | Speaker |
+| Mr. Barend de Beer | Speaker |
+| Mr. João Falcao Silva | Speaker |
+| Ms. Li Ming Ong | Chair |
+
+
+
+
+| IPS Non-Live 21 - Copulas for incomplete survival data | |
+| :------------- | :-------------: |
+| Dr. Jacobo De U¤a lvarez | Organiser |
+| Dr. Ingrid Van Keilegom | Speaker |
+| Dr. Antai Wang | Speaker |
+| Dr. Il Do Ha | Speaker |
+
+
+
+
+| IPS Non-Live 139 - Data Science in Estimating Informal Sector and Gig Workers | |
+| :------------- | :-------------: |
+| Ms. Yong Joo Chiet | Organiser |
+| Mr. Jacques Charmes | Speaker |
+| Ms. Hawati Abdul Hamid | Speaker |
+| Mr. Jonathan Gessendorfer | Speaker |
+| Dr. Mohd Uzir Mahidin | Chair |
+
+
+
+
+| IPS Non-Live 82 - Exploratory Study of Delivery and Learning Outcomes in Some African Countries during the Pandemic | |
+| :------------- | :-------------: |
+| Dr. Oluwayemisi Alaba | Organiser |
+| Dr. Olawale Awe | Speaker |
+| Ms. Barbara Owino | Speaker |
+| Dr. Sanatu Alidu | Speaker |
+| Dr. Oyedeji Osowole | Discussant |
+| Dr. Oluwayemisi Alaba | Chair |
+
+
+
+
+| IPS Non-Live 159 - Implementing Big Data Analysis toward Data Driven Policy Making Process on Sustainable Tourism: Experiences from Indonesia and Estonia | |
+| :------------- | :-------------: |
+| Dr. Titi Kanti Lestari | Organiser |
+| Mr. Siim Esko | Speaker |
+| Mr. Eko Rahmadian | Speaker |
+| Mr. Daniel Feitosa | Speaker |
+
+
+
+
+| IPS Non-Live 76 - Improving Statistics on Forcibly Displaced Through New Frameworks and Innovative Capacity Development Approaches | |
+| :------------- | :-------------: |
+| Mr. Ferenc Urb n | Organiser |
+| Ms. Vibeke Oestreich Nielsen | Speaker |
+| Ms. Alejandra Ríos Cázares | Speaker |
+| Mr. Macdonald George Obudho | Speaker |
+| Ms. Caroline Mary Verney Sergeant | Chair |
+
+
+
+
+| IPS Non-Live 112 - Live Cumulative Meta-Analysis for a Better World | |
+| :------------- | :-------------: |
+| Dr. Alexander Ly | Organiser |
+| Prof. Peter Grunwald | Organiser |
+| Ms. Anne Lyngholm SØrensen | Speaker |
+| Mark Simmonds | Speaker |
+| Ms. Judith ter Schure | Speaker |
+| Prof. Alex Sutton | Discussant |
+
+
+
+
+| IPS Non-Live 165 - Monitoring youngsters and elderlies: statistical issues in composite indicators | |
+| :------------- | :-------------: |
+| Prof. Luigi Biggeri | Organiser |
+| Dr. Matteo Mazziotta | Speaker |
+| Prof. Xiaojun Wang | Speaker |
+| Prof. Guido Ferrari | Speaker |
+| Prof. Monica Pratesi | Discussant |
+| Prof. Ralf Muennich | Discussant |
+
+
+
+
+| IPS Non-Live 211 - Statistical inferential frameworks for environmental process models | |
+| :------------- | :-------------: |
+| Prof. Grace Chiu | Organiser |
+| Dr. Jared Smith | Speaker |
+| Dr. Hideyasu Shimadzu | Speaker |
+| Dr. Anton Westveld | Speaker |
+| Mr. Jaron Lee | Speaker |
+
+
+
+
+| IPS Non-Live 185 - Stochastic Processes and their Applications in Evolutionary Biology. New Trends | |
+| :------------- | :-------------: |
+| Prof. Elena Yarovaya | Discussant |
+| Ms. Daria Balashova | Speaker |
+| Ms. Yulia Marakova | Speaker |
+| Mr. Vladimir Kutsenko | Speaker |
+| Prof. Inés del Puerto | Speaker |
+| Prof. Miguel González | Speaker |
+| Prof. Stanislav Molchanov | Chair |
+| Prof. Nilolaos Limnios | Speaker |
+
+
+
+
+| IPS Non-Live 19 - The New World Order and the Challenges of Official Statistics in Nigeria | |
+| :------------- | :-------------: |
+| Dr. Osuolale Peter Popoola | Organiser |
+| Dr. Kelechi Acha | Speaker |
+| Dr. Nurain Olawale Adeboye | Speaker |
+| Dr. Iyabode Favour Oyenuga | Speaker |
+| Dr. Aliyu Usman | Speaker |
+| Mr. John Pullinger | Speaker |
+
+
+
+
+| IPS Non-Live 147 - The spatial and spatio-temporal statistics of Covid-19 organised by the journal Spatial Statistics | |
+| :------------- | :-------------: |
+| Prof. Sujit Sahu | Organiser |
+| Prof. Francesco Bartolucci | Speaker |
+| Prof. Vincenzina Vincenzina | Speaker |
+| Prof. Dankmar Böhning | Chair |
+
+
+
+
+| IPS Non-Live 202 - Towards 2030 Agenda: The Use of Mobile Data to Measure SDGs Indicators on Information Society | |
+| :------------- | :-------------: |
+| Dr. Titi Kanti Lestari | Organiser and Speaker |
+| Mr. Erki Saluveer | Speaker |
+| Ms. Maria do Carmo Dias Bueno | Speaker |
+| Mr. Siim Esko | Speaker |
+| Ms. Esperanza Magpantay | Speaker |
